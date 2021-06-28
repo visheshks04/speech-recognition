@@ -1,4 +1,4 @@
-_This is a journal to the project, a documentation of did’s and did not’s. 
+_This is a journal to the project, a documentation of did’s and did not’s.  
 Note: Do not use this as a reference or you will run into mistakes. It has to be read in a chronological order from start right to the finish._ 
 
 
