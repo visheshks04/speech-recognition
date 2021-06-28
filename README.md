@@ -46,27 +46,27 @@ http://www.ijmlc.org/papers/174-L031.pdf
 
 # **28 June 2021**
 
-The idea that was selected was Speech recognition system to transcribe a lecture which really does align with our theme, 'Education'. Although turned out the data was mistakenly taken wrong. After a bit of more search we got the correct data. https://commonvoice.mozilla.org/ (we used the corpus 3 version so as to respect the google colab memory limits)
+The idea that was selected was Speech recognition system to transcribe a lecture which really does align with our theme, 'Education'. Although turned out the data was mistakenly taken wrong. After a bit of more search we got the correct data. https://commonvoice.mozilla.org/ (we used the corpus 3 version so as to respect the google colab memory limits)  
 
-### How to download the data into the notebook directly from the source:
-```ipython3 !wget "source_url"```
-The file gets downloaded in a tar.gz format so to extract it run the following in another cell-
-```ipython3 !tar -xzvf file_name.tar.gz```
+### How to download the data into the notebook directly from the source:  
+```ipython3 !wget "source_url"```  
+The file gets downloaded in a tar.gz format so to extract it run the following in another cell-  
+```ipython3 !tar -xzvf file_name.tar.gz```  
 
-As the file gets extracted, you may see it has a lot of tsv files. train.tsv and test.tsv are subsets of validated.tsv+invalidated.tsv so to aim at a good accuracy we can drop invalidated.tsv and only use validated.tsv
+As the file gets extracted, you may see it has a lot of tsv files. train.tsv and test.tsv are subsets of validated.tsv+invalidated.tsv so to aim at a good accuracy we can drop invalidated.tsv and only use validated.tsv   
 
-Directory structure: Each tsv file has the following fields:
- `0   client_id   644119 non-null  object
- 1   path        644119 non-null  object
- 2   sentence    644113 non-null  object
- 3   up_votes    644119 non-null  int64 
- 4   down_votes  644119 non-null  int64 
- 5   age         369018 non-null  object
- 6   gender      371045 non-null  object
- 7   accent      304119 non-null  object`
+Directory structure: Each tsv file has the following fields:  
+ `0   client_id   644119 non-null  object  
+ 1   path        644119 non-null  object  
+ 2   sentence    644113 non-null  object  
+ 3   up_votes    644119 non-null  int64   
+ 4   down_votes  644119 non-null  int64   
+ 5   age         369018 non-null  object  
+ 6   gender      371045 non-null  object  
+ 7   accent      304119 non-null  object`  
  
- The `client_id` is of no special significance to us.
- The `path` is the name of the .mp3 which is a reference to later fetch a particular audio file
- The `sentence` column has all of the corresponding sentences to the audio file
- `upvotes` and `downvotes` tell us how many people validated it as a correct speech for the sentence. We may or may not us it later as a feature
- As `age`, `gender` and `accent` already have a huge amount of null values, they are no use to us. They were no use in our project anyway so we may drop them.
+ The `client_id` is of no special significance to us.  
+ The `path` is the name of the .mp3 which is a reference to later fetch a particular audio file  
+ The `sentence` column has all of the corresponding sentences to the audio file  
+ `upvotes` and `downvotes` tell us how many people validated it as a correct speech for the sentence. We may or may not us it later as a feature  
+ As `age`, `gender` and `accent` already have a huge amount of null values, they are no use to us. They were no use in our project anyway so we may drop them.  
