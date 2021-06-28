@@ -56,7 +56,7 @@ The file gets downloaded in a tar.gz format so to extract it run the following i
 As the file gets extracted, you may see it has a lot of tsv files. train.tsv and test.tsv are subsets of validated.tsv+invalidated.tsv so to aim at a good accuracy we can drop invalidated.tsv and only use validated.tsv   
 
 Directory structure: Each tsv file has the following fields:  
- `0   client_id   644119 non-null  object  <br>
+ `0   client_id   644119 non-null  object  <br/>
  1   path        644119 non-null  object  <br>
  2   sentence    644113 non-null  object  <br>
  3   up_votes    644119 non-null  int64   <br>
