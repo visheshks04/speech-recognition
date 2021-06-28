@@ -66,7 +66,7 @@ Directory structure: Each tsv file has the following fields:
  7   accent      304119 non-null  object`  <br>
  
  The `client_id` is of no special significance to us.  <br>
- The `path` is the name of the .mp3 which is a reference to later fetch a particular audio file  <br>
+ The `path` is the name of the .mp3 which is a reference to later fetch a particular audio file  <br/>
  The `sentence` column has all of the corresponding sentences to the audio file  <br>
  `upvotes` and `downvotes` tell us how many people validated it as a correct speech for the sentence. We may or may not us it later as a feature  <br>
  As `age`, `gender` and `accent` already have a huge amount of null values, they are no use to us. They were no use in our project anyway so we may drop them.  <br>
