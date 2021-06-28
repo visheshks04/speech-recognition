@@ -1,7 +1,7 @@
-﻿This is a journal to the project, a documentation of did’s and did not’s
+_This is a journal to the project, a documentation of did’s and did not’s_
 
 
-22-23 June 2021
+# **22-23 June 2021**
 
 Idea Selection: After a good amount of brainstorming, we figured out a few ideas:
 
@@ -24,7 +24,7 @@ Data: https://www.kaggle.com/dipam7/student-grade-prediction
 With due discussion, Handwriting reviewer was finalised.
 
 
-24 June 2021
+# **24 June 2021**
 
 Flaw in the Handwriting reviewer idea: Turns out the handwriting reviewer concept isn’t perfect. If a kid writes ‘c’ in a way that the model thinks its an ‘e’ the score will be calculated for e only and the child will be notified that he needs to work on e’s where in reality he needs to work on c’s
 
