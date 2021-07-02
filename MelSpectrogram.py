@@ -17,6 +17,9 @@ def insert_spect_col(df):
     for path in df['path']:
         path = 'clips/' + path
         spect = get_mel_spect(path)
+        
+        spect = spect/255.0 # Normalisation
+        
         spects = spects.append(pd.Series([spect]), ignore_index = True)
 
     new_df = pd.concat([df, spects], axis = 1)
