@@ -1,0 +1,5881 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 50,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "The following\ncontent is provided"
+    } ]
+  }, {
+    "tStartMs": 1770,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "under a Creative\nCommons license."
+    } ]
+  }, {
+    "tStartMs": 4010,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Your support will help MIT\nOpenCourseWare continue"
+    } ]
+  }, {
+    "tStartMs": 6860,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "to offer high quality\neducational resources for free."
+    } ]
+  }, {
+    "tStartMs": 10720,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "To make a donation or\nview additional materials"
+    } ]
+  }, {
+    "tStartMs": 13330,
+    "dDurationMs": 3877,
+    "segs": [ {
+      "utf8": "from hundreds of MIT courses,\nvisit MIT OpenCourseWare"
+    } ]
+  }, {
+    "tStartMs": 17207,
+    "dDurationMs": 625,
+    "segs": [ {
+      "utf8": "at ocw.mit.edu."
+    } ]
+  }, {
+    "tStartMs": 22730,
+    "dDurationMs": 660,
+    "segs": [ {
+      "utf8": "PROFESSOR: Hi."
+    } ]
+  }, {
+    "tStartMs": 23390,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "I'm Srini Devadas."
+    } ]
+  }, {
+    "tStartMs": 24750,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "I'm a professor of electrical\nengineering and computer"
+    } ]
+  }, {
+    "tStartMs": 27040,
+    "dDurationMs": 610,
+    "segs": [ {
+      "utf8": "science."
+    } ]
+  }, {
+    "tStartMs": 27650,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "I'm going to be co-lecturing\n6.006-- Introduction"
+    } ]
+  }, {
+    "tStartMs": 30970,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "to Algorithms-- this term\nwith professor Erik Domane."
+    } ]
+  }, {
+    "tStartMs": 34950,
+    "dDurationMs": 1051,
+    "segs": [ {
+      "utf8": "Eric, say hi."
+    } ]
+  }, {
+    "tStartMs": 36001,
+    "dDurationMs": 882,
+    "segs": [ {
+      "utf8": "ERIK DOMANE: Hi."
+    } ]
+  }, {
+    "tStartMs": 36883,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "[LAUGHTER]"
+    } ]
+  }, {
+    "tStartMs": 38650,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "PROFESSOR: And we\nhope you're going"
+    } ]
+  }, {
+    "tStartMs": 40210,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "to have a fun time\nin 6.006 learning"
+    } ]
+  }, {
+    "tStartMs": 43710,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "a variety of algorithms."
+    } ]
+  }, {
+    "tStartMs": 45760,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "What I want to do today is\nspend literally a minute or so"
+    } ]
+  }, {
+    "tStartMs": 50760,
+    "dDurationMs": 4244,
+    "segs": [ {
+      "utf8": "on administrative\ndetails, maybe even less."
+    } ]
+  }, {
+    "tStartMs": 55004,
+    "dDurationMs": 1416,
+    "segs": [ {
+      "utf8": "What I'd like to\ndo is to tell you"
+    } ]
+  }, {
+    "tStartMs": 56420,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "to go to the website that's\nlisted up there and read it."
+    } ]
+  }, {
+    "tStartMs": 60670,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "And you'll get all\ninformation you"
+    } ]
+  }, {
+    "tStartMs": 62250,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "need about what this class\nis about from a standpoint"
+    } ]
+  }, {
+    "tStartMs": 66430,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "of syllabus; what's expected\nof you; the problem set"
+    } ]
+  }, {
+    "tStartMs": 71590,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "schedule; the quiz schedule;\nand so on and so forth."
+    } ]
+  }, {
+    "tStartMs": 75660,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "I want to dive right in and tell\nyou about interesting things,"
+    } ]
+  }, {
+    "tStartMs": 79460,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "like algorithms and\ncomplexity of algorithms."
+    } ]
+  }, {
+    "tStartMs": 84550,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "I want to spend\nsome time giving you"
+    } ]
+  }, {
+    "tStartMs": 86490,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "an overview of the\ncourse content."
+    } ]
+  }, {
+    "tStartMs": 89380,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "And then we're\ngoing to dive right"
+    } ]
+  }, {
+    "tStartMs": 91640,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "in and look at a\nparticular problem of peak"
+    } ]
+  }, {
+    "tStartMs": 95230,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "finding-- both the one\ndimensional version and a two"
+    } ]
+  }, {
+    "tStartMs": 98360,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "dimensional version-- and\ntalk about algorithms to solve"
+    } ]
+  }, {
+    "tStartMs": 101900,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "this peak finding problem--\nboth varieties of it."
+    } ]
+  }, {
+    "tStartMs": 106670,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "And you'll find\nthat there's really"
+    } ]
+  }, {
+    "tStartMs": 110000,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "a difference between\nthese various algorithms"
+    } ]
+  }, {
+    "tStartMs": 113090,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "that we'll look at in\nterms of their complexity."
+    } ]
+  }, {
+    "tStartMs": 116480,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "And what I mean\nby that is you're"
+    } ]
+  }, {
+    "tStartMs": 119070,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "going to have different run\ntimes of these algorithms"
+    } ]
+  }, {
+    "tStartMs": 122750,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "depending on input\nsize, based on how"
+    } ]
+  }, {
+    "tStartMs": 126210,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "efficient these algorithms are."
+    } ]
+  }, {
+    "tStartMs": 128600,
+    "dDurationMs": 5770,
+    "segs": [ {
+      "utf8": "And a prerequisite for\nthis class is 6.042."
+    } ]
+  }, {
+    "tStartMs": 134370,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "And in 6.042 you learned\nabout asymptotic complexity."
+    } ]
+  }, {
+    "tStartMs": 138620,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "And you'll see that\nin this lecture"
+    } ]
+  }, {
+    "tStartMs": 141240,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "we'll analyze relatively\nsimple algorithms today"
+    } ]
+  }, {
+    "tStartMs": 145430,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "in terms of their\nasymptotic complexity."
+    } ]
+  }, {
+    "tStartMs": 148070,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "And you'll be able\nto compare and say"
+    } ]
+  }, {
+    "tStartMs": 150340,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "that this algorithm is fasten\nthis other one-- assuming"
+    } ]
+  }, {
+    "tStartMs": 153940,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "that you have large\ninputs-- because it's"
+    } ]
+  }, {
+    "tStartMs": 157320,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "asymptotically less complex."
+    } ]
+  }, {
+    "tStartMs": 160840,
+    "dDurationMs": 2345,
+    "segs": [ {
+      "utf8": "So let's dive right in\nand talk about the class."
+    } ]
+  }, {
+    "tStartMs": 172420,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "So the one sentence\nsummary of this class"
+    } ]
+  }, {
+    "tStartMs": 174550,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "is that this is about\nefficient procedures"
+    } ]
+  }, {
+    "tStartMs": 178910,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "for solving problems\non large inputs."
+    } ]
+  }, {
+    "tStartMs": 184850,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "And when I say large\ninputs, I mean things"
+    } ]
+  }, {
+    "tStartMs": 186800,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "like the US highway\nsystem, a map"
+    } ]
+  }, {
+    "tStartMs": 190720,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "of all of the highways\nin the United States;"
+    } ]
+  }, {
+    "tStartMs": 194110,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "the human genome, which\nhas a billion letters"
+    } ]
+  }, {
+    "tStartMs": 197850,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "in its alphabet; a social\nnetwork responding to Facebook,"
+    } ]
+  }, {
+    "tStartMs": 203170,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "that I guess has 500\nmillion nodes or so."
+    } ]
+  }, {
+    "tStartMs": 206840,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "So these are large inputs."
+    } ]
+  }, {
+    "tStartMs": 208280,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "Now our definition of large has\nreally changed with the times."
+    } ]
+  }, {
+    "tStartMs": 211470,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "And so really the 21st\ncentury definition of large"
+    } ]
+  }, {
+    "tStartMs": 215440,
+    "dDurationMs": 1531,
+    "segs": [ {
+      "utf8": "is, I guess, a trillion."
+    } ]
+  }, {
+    "tStartMs": 216971,
+    "dDurationMs": 499,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 217470,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Back when I was your age\nlarge was like 1,000."
+    } ]
+  }, {
+    "tStartMs": 220680,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "[LAUGHTER]"
+    } ]
+  }, {
+    "tStartMs": 222400,
+    "dDurationMs": 2444,
+    "segs": [ {
+      "utf8": "I guess I'm dating myself here."
+    } ]
+  }, {
+    "tStartMs": 224844,
+    "dDurationMs": 1916,
+    "segs": [ {
+      "utf8": "Back when Eric was your\nage, it was a million."
+    } ]
+  }, {
+    "tStartMs": 226760,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 227260,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "[LAUGHTER]"
+    } ]
+  }, {
+    "tStartMs": 228650,
+    "dDurationMs": 6350,
+    "segs": [ {
+      "utf8": "But what's happening really\nthe world is moving faster,"
+    } ]
+  }, {
+    "tStartMs": 235000,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "things are getting bigger."
+    } ]
+  }, {
+    "tStartMs": 236420,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "We have the capability of\ncomputing on large inputs,"
+    } ]
+  }, {
+    "tStartMs": 240880,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "but that doesn't\nmean that efficiency"
+    } ]
+  }, {
+    "tStartMs": 243220,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "isn't of paramount concern."
+    } ]
+  }, {
+    "tStartMs": 245760,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "The fact of matter is\nthat you can, maybe,"
+    } ]
+  }, {
+    "tStartMs": 248690,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "scan a billion elements\nin a matter of seconds."
+    } ]
+  }, {
+    "tStartMs": 253550,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "But if you had an algorithm\nthat required cubic complexity,"
+    } ]
+  }, {
+    "tStartMs": 257750,
+    "dDurationMs": 2149,
+    "segs": [ {
+      "utf8": "suddenly you're not talking\nabout 10 raised to 9,"
+    } ]
+  }, {
+    "tStartMs": 259899,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "you're talking about\n10 raised to 27."
+    } ]
+  }, {
+    "tStartMs": 262079,
+    "dDurationMs": 2431,
+    "segs": [ {
+      "utf8": "And even current\ncomputers can't really"
+    } ]
+  }, {
+    "tStartMs": 264510,
+    "dDurationMs": 6380,
+    "segs": [ {
+      "utf8": "handle those kinds of numbers,\nso efficiency is a concern."
+    } ]
+  }, {
+    "tStartMs": 270890,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "And as inputs get larger, it\nbecomes more of a concern."
+    } ]
+  }, {
+    "tStartMs": 274820,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 275320,
+    "dDurationMs": 4078,
+    "segs": [ {
+      "utf8": "So we're concerned about--"
+    } ]
+  }, {
+    "tStartMs": 283760,
+    "dDurationMs": 7550,
+    "segs": [ {
+      "utf8": "--efficient procedures-- for\nsolving large scale problems"
+    } ]
+  }, {
+    "tStartMs": 291310,
+    "dDurationMs": 630,
+    "segs": [ {
+      "utf8": "in this class."
+    } ]
+  }, {
+    "tStartMs": 298140,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "And we're concerned\nabout scalability,"
+    } ]
+  }, {
+    "tStartMs": 301640,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "because-- just as,\nyou know, 1,000"
+    } ]
+  }, {
+    "tStartMs": 307030,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "was a big number a\ncouple of decades ago,"
+    } ]
+  }, {
+    "tStartMs": 309600,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "and now it's kind of\na small number-- it's"
+    } ]
+  }, {
+    "tStartMs": 312140,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "quite possible that by the\ntime you guys are professors"
+    } ]
+  }, {
+    "tStartMs": 316430,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "teaching this class\nin some university"
+    } ]
+  }, {
+    "tStartMs": 318220,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "that a trillion is going\nto be a small number."
+    } ]
+  }, {
+    "tStartMs": 320690,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "And we're going to be talking\nabout-- I don't know--"
+    } ]
+  }, {
+    "tStartMs": 324430,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "10 raised to 18\nas being something"
+    } ]
+  }, {
+    "tStartMs": 327520,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "that we're concerned with from\na standpoint of a common case"
+    } ]
+  }, {
+    "tStartMs": 332620,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "input for an algorithm."
+    } ]
+  }, {
+    "tStartMs": 334510,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "So scalability is important."
+    } ]
+  }, {
+    "tStartMs": 338120,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "And we want to be able to track\nhow our algorithms are going"
+    } ]
+  }, {
+    "tStartMs": 341480,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "to do as inputs get\nlarger and larger."
+    } ]
+  }, {
+    "tStartMs": 347210,
+    "dDurationMs": 4970,
+    "segs": [ {
+      "utf8": "You going to learn a bunch\nof different data structures."
+    } ]
+  }, {
+    "tStartMs": 352180,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "We'll call them classic\ndata structures,"
+    } ]
+  }, {
+    "tStartMs": 356650,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "like binary search\ntrees, hash tables-- that"
+    } ]
+  }, {
+    "tStartMs": 361450,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "are called dictionaries\nin Python-- and data"
+    } ]
+  }, {
+    "tStartMs": 366020,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "structures-- such as balanced\nbinary search trees-- that"
+    } ]
+  }, {
+    "tStartMs": 369470,
+    "dDurationMs": 3505,
+    "segs": [ {
+      "utf8": "are more efficient than just\nthe regular binary search trees."
+    } ]
+  }, {
+    "tStartMs": 372975,
+    "dDurationMs": 1375,
+    "segs": [ {
+      "utf8": "And these are all\ndata structures"
+    } ]
+  }, {
+    "tStartMs": 374350,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "that were invented\nmany decades ago."
+    } ]
+  }, {
+    "tStartMs": 378540,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "But they've stood\nthe test of time,"
+    } ]
+  }, {
+    "tStartMs": 380850,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "and they continue to be useful."
+    } ]
+  }, {
+    "tStartMs": 383530,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "We're going to augment these\ndata structures in various ways"
+    } ]
+  }, {
+    "tStartMs": 386210,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "to make them more efficient\nfor certain kinds of problems."
+    } ]
+  }, {
+    "tStartMs": 390330,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "And while you're not going to be\ndoing a whole lot of algorithm"
+    } ]
+  }, {
+    "tStartMs": 393980,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "design in this\nclass, you will be"
+    } ]
+  }, {
+    "tStartMs": 396180,
+    "dDurationMs": 2155,
+    "segs": [ {
+      "utf8": "doing some design and a\nwhole lot of analysis."
+    } ]
+  }, {
+    "tStartMs": 400880,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "The class following this\none, 6.046 Designing Analysis"
+    } ]
+  }, {
+    "tStartMs": 406060,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "of Algorithms, is\na class that you"
+    } ]
+  }, {
+    "tStartMs": 408530,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "should take if\nyou like this one."
+    } ]
+  }, {
+    "tStartMs": 412080,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "And you can do a whole lot more\ndesign of algorithms in 6.046."
+    } ]
+  }, {
+    "tStartMs": 417180,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "But you will look at\nclassic data structures"
+    } ]
+  }, {
+    "tStartMs": 419880,
+    "dDurationMs": 6380,
+    "segs": [ {
+      "utf8": "and classical algorithms\nfor these data structures,"
+    } ]
+  }, {
+    "tStartMs": 426260,
+    "dDurationMs": 6210,
+    "segs": [ {
+      "utf8": "including things like sorting\nand matching, and so on."
+    } ]
+  }, {
+    "tStartMs": 432470,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "And one of the nice\nthings about this class"
+    } ]
+  }, {
+    "tStartMs": 437200,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "is that you'll be doing real\nimplementations of these data"
+    } ]
+  }, {
+    "tStartMs": 441800,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "structures and\nalgorithms in Python."
+    } ]
+  }, {
+    "tStartMs": 448220,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "And in particular are\neach of the problem"
+    } ]
+  }, {
+    "tStartMs": 450880,
+    "dDurationMs": 7800,
+    "segs": [ {
+      "utf8": "sets in this class are\ngoing to have both a theory"
+    } ]
+  }, {
+    "tStartMs": 458680,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "part to them, and a\nprogramming part to them."
+    } ]
+  }, {
+    "tStartMs": 461930,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "So hopefully it'll\nall tie together."
+    } ]
+  }, {
+    "tStartMs": 463430,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "The kinds of things we're going\nto be talking about in lectures"
+    } ]
+  }, {
+    "tStartMs": 466060,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "and recitations are going\nto be directly connected"
+    } ]
+  }, {
+    "tStartMs": 471200,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "to the theory parts\nof the problem sets."
+    } ]
+  }, {
+    "tStartMs": 473260,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "And you'll be programming the\nalgorithms that we talk about"
+    } ]
+  }, {
+    "tStartMs": 475800,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "in lecture, or augmenting\nthem, running them."
+    } ]
+  }, {
+    "tStartMs": 478680,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Figuring out whether they work\nwell on large inputs or not."
+    } ]
+  }, {
+    "tStartMs": 486510,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "So let me talk a little\nbit about the modules"
+    } ]
+  }, {
+    "tStartMs": 489530,
+    "dDurationMs": 1932,
+    "segs": [ {
+      "utf8": "in this class and\nthe problem sets."
+    } ]
+  }, {
+    "tStartMs": 491462,
+    "dDurationMs": 1458,
+    "segs": [ {
+      "utf8": "And we hope that\nthese problem sets"
+    } ]
+  }, {
+    "tStartMs": 492920,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "are going to be fun for you."
+    } ]
+  }, {
+    "tStartMs": 495470,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "And by fun I don't mean easy."
+    } ]
+  }, {
+    "tStartMs": 499430,
+    "dDurationMs": 3226,
+    "segs": [ {
+      "utf8": "I mean challenging and\nworthwhile, so at the end of it"
+    } ]
+  }, {
+    "tStartMs": 502656,
+    "dDurationMs": 1624,
+    "segs": [ {
+      "utf8": "you feel like you've\nlearned something,"
+    } ]
+  }, {
+    "tStartMs": 504280,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "and you had some\nfun along the way."
+    } ]
+  }, {
+    "tStartMs": 506870,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 508580,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "So content wise--"
+    } ]
+  }, {
+    "tStartMs": 517350,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "--we have eight\nmodules in the class."
+    } ]
+  }, {
+    "tStartMs": 521830,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "Each of which,\nroughly speaking, has"
+    } ]
+  }, {
+    "tStartMs": 524490,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "a problem set\nassociated with it."
+    } ]
+  }, {
+    "tStartMs": 527020,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "The first of these is what\nwe call algorithmic thinking."
+    } ]
+  }, {
+    "tStartMs": 535710,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "And we'll kick start\nthat one today."
+    } ]
+  }, {
+    "tStartMs": 539130,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "We'll look at a particular\nproblem, as I mentioned,"
+    } ]
+  }, {
+    "tStartMs": 541480,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "of peak finding."
+    } ]
+  }, {
+    "tStartMs": 542790,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "And as part of\nthis, you're going"
+    } ]
+  }, {
+    "tStartMs": 544350,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "to have a problem set that's\ngoing to go out today as well."
+    } ]
+  }, {
+    "tStartMs": 547960,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "And you'll find that\nin this problem set"
+    } ]
+  }, {
+    "tStartMs": 552320,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "some of these algorithms\nI talk about today will"
+    } ]
+  }, {
+    "tStartMs": 554420,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "be coded in Python and given to."
+    } ]
+  }, {
+    "tStartMs": 557090,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "A couple of them are going\nto have bugs in them."
+    } ]
+  }, {
+    "tStartMs": 560190,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "You'll have to analyze the\ncomplexity of these algorithms;"
+    } ]
+  }, {
+    "tStartMs": 564340,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "figure out which ones are\ncorrect and efficient;"
+    } ]
+  }, {
+    "tStartMs": 567380,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "and write a proof\nfor one of them."
+    } ]
+  }, {
+    "tStartMs": 569760,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 570260,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "So that's sort of an\nexample problem set."
+    } ]
+  }, {
+    "tStartMs": 573320,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "And you can expect that\nmost of the problem sets"
+    } ]
+  }, {
+    "tStartMs": 577600,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "are going to follow\nthat sort of template."
+    } ]
+  }, {
+    "tStartMs": 580036,
+    "dDurationMs": 714,
+    "segs": [ {
+      "utf8": "All right."
+    } ]
+  }, {
+    "tStartMs": 580750,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "So you'll get a\nbetter sense of this"
+    } ]
+  }, {
+    "tStartMs": 584810,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "by the end of the\nday today for sure."
+    } ]
+  }, {
+    "tStartMs": 586690,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Or a concrete sense\nof this, because we'll"
+    } ]
+  }, {
+    "tStartMs": 588930,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "be done with lecture and you'll\nsee your first problem set."
+    } ]
+  }, {
+    "tStartMs": 592850,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "We're going to be doing a\nmodule on sorting and trees."
+    } ]
+  }, {
+    "tStartMs": 597540,
+    "dDurationMs": 3079,
+    "segs": [ {
+      "utf8": "Sorting you now about,\nsorting a bunch of numbers."
+    } ]
+  }, {
+    "tStartMs": 600619,
+    "dDurationMs": 1541,
+    "segs": [ {
+      "utf8": "Imagine if you had\na trillion numbers"
+    } ]
+  }, {
+    "tStartMs": 602160,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "and you wanted to sort them."
+    } ]
+  }, {
+    "tStartMs": 604250,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "What kind of algorithm\ncould use for that?"
+    } ]
+  }, {
+    "tStartMs": 607610,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Trees are a wonderful\ndata structure."
+    } ]
+  }, {
+    "tStartMs": 610280,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "There's different varieties, the\nmost common being binary trees."
+    } ]
+  }, {
+    "tStartMs": 614760,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "And there's ways of doing\nall sorts of things,"
+    } ]
+  }, {
+    "tStartMs": 617580,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "like scheduling, and sorting,\nusing various kinds of trees,"
+    } ]
+  }, {
+    "tStartMs": 622560,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "including binary trees."
+    } ]
+  }, {
+    "tStartMs": 624200,
+    "dDurationMs": 7130,
+    "segs": [ {
+      "utf8": "And we have a problem set on\nsimulating a logic network"
+    } ]
+  }, {
+    "tStartMs": 631330,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "using a particular kind of\nsorting algorithm in a data"
+    } ]
+  }, {
+    "tStartMs": 636660,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "structure."
+    } ]
+  }, {
+    "tStartMs": 638340,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "That is going to be\nyour second problem set."
+    } ]
+  }, {
+    "tStartMs": 641150,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "And more quickly, we're going\nto have modules on hashing,"
+    } ]
+  }, {
+    "tStartMs": 647190,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "where we do things\nlike genome comparison."
+    } ]
+  }, {
+    "tStartMs": 651240,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "In past terms we compared a\nhuman genome to a rat genome,"
+    } ]
+  }, {
+    "tStartMs": 656330,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "and discovered they\nwere pretty similar."
+    } ]
+  }, {
+    "tStartMs": 659350,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "99% similar, which\nis kind of amazing."
+    } ]
+  }, {
+    "tStartMs": 661860,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "But again, these things\nare so large that you"
+    } ]
+  }, {
+    "tStartMs": 664960,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "have to have efficiency\nin the comparison methods"
+    } ]
+  }, {
+    "tStartMs": 667590,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "that you use."
+    } ]
+  }, {
+    "tStartMs": 668460,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "And you'll find that if you\ndon't get the complexity low"
+    } ]
+  }, {
+    "tStartMs": 671690,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "enough, you just won't\nbe able to complete--"
+    } ]
+  }, {
+    "tStartMs": 675300,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "your program won't be able to\nfinish running within the time"
+    } ]
+  }, {
+    "tStartMs": 679950,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "that your problem set is do."
+    } ]
+  }, {
+    "tStartMs": 681260,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 681760,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Which is a bit of a problem."
+    } ]
+  }, {
+    "tStartMs": 684660,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "So that's something to keep\nin mind as you test your code."
+    } ]
+  }, {
+    "tStartMs": 688860,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "The fact is that you will get\nlarge inputs to run your code."
+    } ]
+  }, {
+    "tStartMs": 692140,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "And you want to keep\ncomplexity in mind"
+    } ]
+  }, {
+    "tStartMs": 694960,
+    "dDurationMs": 5110,
+    "segs": [ {
+      "utf8": "as you're coding and thinking\nabout the pseudocode,"
+    } ]
+  }, {
+    "tStartMs": 700070,
+    "dDurationMs": 3554,
+    "segs": [ {
+      "utf8": "if you will, of your\nalgorithm itself."
+    } ]
+  }, {
+    "tStartMs": 703624,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "We will talk about numerics."
+    } ]
+  }, {
+    "tStartMs": 707420,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "A lot of the time we talk\nabout such large numbers"
+    } ]
+  }, {
+    "tStartMs": 710840,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "that 32 bits isn't enough."
+    } ]
+  }, {
+    "tStartMs": 714290,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Or 64 bits isn't enough to\nrepresent these numbers."
+    } ]
+  }, {
+    "tStartMs": 717130,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "These numbers have\nthousands of bits."
+    } ]
+  }, {
+    "tStartMs": 718910,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "A good example is\nRSA encryption,"
+    } ]
+  }, {
+    "tStartMs": 721110,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "that is used in\nSSL, for example."
+    } ]
+  }, {
+    "tStartMs": 725140,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "And when you go-- use\nhttps on websites,"
+    } ]
+  }, {
+    "tStartMs": 729720,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "RSA is used at the back end."
+    } ]
+  }, {
+    "tStartMs": 732710,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "And typically you work\nwith prime numbers"
+    } ]
+  }, {
+    "tStartMs": 735360,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "that are thousands\nof bits long in RSA."
+    } ]
+  }, {
+    "tStartMs": 738510,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "So how do you handle that?"
+    } ]
+  }, {
+    "tStartMs": 739930,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "How does Python handle that?"
+    } ]
+  }, {
+    "tStartMs": 741270,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "How do you write\nalgorithms that can"
+    } ]
+  }, {
+    "tStartMs": 742950,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "deal with what are called\ninfinite precision numbers?"
+    } ]
+  }, {
+    "tStartMs": 746270,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "So we have a module on numerics\nin the middle of the term that"
+    } ]
+  }, {
+    "tStartMs": 750500,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "talks about that."
+    } ]
+  }, {
+    "tStartMs": 751850,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "Graphs, really a\nfundamental data structure"
+    } ]
+  }, {
+    "tStartMs": 755480,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "in all of computer science."
+    } ]
+  }, {
+    "tStartMs": 757970,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "You might have heard of the\nfamous Rubik's cube assignment"
+    } ]
+  }, {
+    "tStartMs": 762610,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "from ."
+    } ]
+  }, {
+    "tStartMs": 763110,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "006 a 2 by 2 by 2 Rubik's cube."
+    } ]
+  }, {
+    "tStartMs": 766850,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "What's the minimum\nnumber of moves"
+    } ]
+  }, {
+    "tStartMs": 768690,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "necessary to go from a\ngiven starting configuration"
+    } ]
+  }, {
+    "tStartMs": 773240,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "to the final end configuration,\nwhere all of the faces-- each"
+    } ]
+  }, {
+    "tStartMs": 776640,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "of the faces has uniform color?"
+    } ]
+  }, {
+    "tStartMs": 778940,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "And that can be posed\nas a graph problem."
+    } ]
+  }, {
+    "tStartMs": 781830,
+    "dDurationMs": 2222,
+    "segs": [ {
+      "utf8": "We'll probably do\nthat one this term."
+    } ]
+  }, {
+    "tStartMs": 784052,
+    "dDurationMs": 1708,
+    "segs": [ {
+      "utf8": "In previous terms\nwe've done other things"
+    } ]
+  }, {
+    "tStartMs": 785760,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "like the 15 puzzle."
+    } ]
+  }, {
+    "tStartMs": 787310,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "And so some of\nthese are tentative."
+    } ]
+  }, {
+    "tStartMs": 790170,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "We definitely know what the\nfirst problem set is like,"
+    } ]
+  }, {
+    "tStartMs": 792420,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "but the rest of them are,\nat this moment, tentative."
+    } ]
+  }, {
+    "tStartMs": 796420,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "And to finish up shortest paths."
+    } ]
+  }, {
+    "tStartMs": 800340,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Again in terms past\nwe've asked you"
+    } ]
+  }, {
+    "tStartMs": 804660,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "to write code using a\nparticular algorithm that"
+    } ]
+  }, {
+    "tStartMs": 807380,
+    "dDurationMs": 3604,
+    "segs": [ {
+      "utf8": "finds the shortest path\nfrom Caltech to MIT."
+    } ]
+  }, {
+    "tStartMs": 810984,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "This time we may do things\na little bit differently."
+    } ]
+  }, {
+    "tStartMs": 813150,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "We were thinking maybe we'll\ngive you a street map of Boston"
+    } ]
+  }, {
+    "tStartMs": 817150,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "and go figure out\nif Paul Revere used"
+    } ]
+  }, {
+    "tStartMs": 821360,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "the shortest path to get\nto where he was going,"
+    } ]
+  }, {
+    "tStartMs": 824140,
+    "dDurationMs": 885,
+    "segs": [ {
+      "utf8": "or things like that."
+    } ]
+  }, {
+    "tStartMs": 825025,
+    "dDurationMs": 2515,
+    "segs": [ {
+      "utf8": "We'll try and make it fun."
+    } ]
+  }, {
+    "tStartMs": 827540,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "Dynamic programming is an\nimportant algorithm design"
+    } ]
+  }, {
+    "tStartMs": 834420,
+    "dDurationMs": 6270,
+    "segs": [ {
+      "utf8": "technique that's used\nin many, many problems."
+    } ]
+  }, {
+    "tStartMs": 840690,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "And it can be used to do a\nvariety of things, including"
+    } ]
+  }, {
+    "tStartMs": 844510,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "image compression."
+    } ]
+  }, {
+    "tStartMs": 846600,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "How do you compress an image\nso the number of pixels"
+    } ]
+  }, {
+    "tStartMs": 850060,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "reduces, but it still\nlooks like the image"
+    } ]
+  }, {
+    "tStartMs": 852960,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "that you started out with,\nthat had many more pixels?"
+    } ]
+  }, {
+    "tStartMs": 855761,
+    "dDurationMs": 499,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 856260,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "So you could use dynamic\nprogramming for that."
+    } ]
+  }, {
+    "tStartMs": 858970,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "And finally, advanced topics,\ncomplexity theory, research"
+    } ]
+  }, {
+    "tStartMs": 863370,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "and algorithms."
+    } ]
+  }, {
+    "tStartMs": 865760,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "Hopefully by now-- by\nthis time in the course,"
+    } ]
+  }, {
+    "tStartMs": 868590,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "you have been sold\non algorithms."
+    } ]
+  }, {
+    "tStartMs": 870330,
+    "dDurationMs": 2275,
+    "segs": [ {
+      "utf8": "And most, if not\nall of you, would"
+    } ]
+  }, {
+    "tStartMs": 872605,
+    "dDurationMs": 1945,
+    "segs": [ {
+      "utf8": "want to pursue a\ncarrier in algorithms."
+    } ]
+  }, {
+    "tStartMs": 874550,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "And we'll give you a sense\nof what else is there."
+    } ]
+  }, {
+    "tStartMs": 877680,
+    "dDurationMs": 2684,
+    "segs": [ {
+      "utf8": "We're just scratching the\nsurface in this class,"
+    } ]
+  }, {
+    "tStartMs": 880364,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "and there's many, many\nclasses that you can possibly"
+    } ]
+  }, {
+    "tStartMs": 882530,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "take if you want to continue\nin-- to learn about algorithms,"
+    } ]
+  }, {
+    "tStartMs": 887650,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "or to pursue a\ncareer in algorithms."
+    } ]
+  }, {
+    "tStartMs": 889790,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 891580,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "So that's the\nstory of the class,"
+    } ]
+  }, {
+    "tStartMs": 893990,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "or the synopsis of the class."
+    } ]
+  }, {
+    "tStartMs": 895840,
+    "dDurationMs": 6110,
+    "segs": [ {
+      "utf8": "And I encourage you to go spend\na few minutes on the website."
+    } ]
+  }, {
+    "tStartMs": 901950,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "In particular please read the\ncollaboration policy, and get"
+    } ]
+  }, {
+    "tStartMs": 905850,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "a sense of what is\nexpected of you."
+    } ]
+  }, {
+    "tStartMs": 908440,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "What the rules are in terms\nof doing the problem sets."
+    } ]
+  }, {
+    "tStartMs": 913580,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "And the course\ngrading break down,"
+    } ]
+  }, {
+    "tStartMs": 917100,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "the grading policies are all\nlisted on the website as well."
+    } ]
+  }, {
+    "tStartMs": 920860,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "All right."
+    } ]
+  }, {
+    "tStartMs": 923000,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "OK."
+    } ]
+  }, {
+    "tStartMs": 923870,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "So let's get started."
+    } ]
+  }, {
+    "tStartMs": 926210,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "I want to talk about\na specific problem."
+    } ]
+  }, {
+    "tStartMs": 928930,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "And talk about algorithms\nfor a specific problem."
+    } ]
+  }, {
+    "tStartMs": 932000,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "We picked this problem, because\nit's so easy to understand."
+    } ]
+  }, {
+    "tStartMs": 935560,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "And they're fairly\nstraightforward algorithms"
+    } ]
+  }, {
+    "tStartMs": 938790,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "that are not particularly\nefficient to solve"
+    } ]
+  }, {
+    "tStartMs": 941280,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "this problem."
+    } ]
+  }, {
+    "tStartMs": 942530,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "And so this is a, kind\nof, a toy problem."
+    } ]
+  }, {
+    "tStartMs": 945060,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "But like a lot of\ntoy problems, it's"
+    } ]
+  }, {
+    "tStartMs": 949660,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "very evocative in that it\npoints out the issues involved"
+    } ]
+  }, {
+    "tStartMs": 955230,
+    "dDurationMs": 2509,
+    "segs": [ {
+      "utf8": "in designing\nefficient algorithms."
+    } ]
+  }, {
+    "tStartMs": 957739,
+    "dDurationMs": 1541,
+    "segs": [ {
+      "utf8": "So we'll start with\na one dimensional"
+    } ]
+  }, {
+    "tStartMs": 959280,
+    "dDurationMs": 3115,
+    "segs": [ {
+      "utf8": "version of what we\ncall peak finding."
+    } ]
+  }, {
+    "tStartMs": 965810,
+    "dDurationMs": 4825,
+    "segs": [ {
+      "utf8": "And a peak finder is something\nin the one dimensional case."
+    } ]
+  }, {
+    "tStartMs": 974180,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "Runs on an array of numbers."
+    } ]
+  }, {
+    "tStartMs": 978240,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "And I'm just putting--"
+    } ]
+  }, {
+    "tStartMs": 982770,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "--symbols for each of\nthese numbers here."
+    } ]
+  }, {
+    "tStartMs": 987020,
+    "dDurationMs": 4526,
+    "segs": [ {
+      "utf8": "And the numbers are\npositive, negative."
+    } ]
+  }, {
+    "tStartMs": 991546,
+    "dDurationMs": 1624,
+    "segs": [ {
+      "utf8": "We'll just assume\nthey're all positive,"
+    } ]
+  }, {
+    "tStartMs": 993170,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "it doesn't really matter."
+    } ]
+  }, {
+    "tStartMs": 994480,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "The algorithms we\ndescribe will work."
+    } ]
+  }, {
+    "tStartMs": 998460,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "And so we have this\none dimensional array"
+    } ]
+  }, {
+    "tStartMs": 1001330,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "that has nine\ndifferent positions."
+    } ]
+  }, {
+    "tStartMs": 1003450,
+    "dDurationMs": 3955,
+    "segs": [ {
+      "utf8": "And a through i are numbers."
+    } ]
+  }, {
+    "tStartMs": 1009910,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "And we want to find a peak."
+    } ]
+  }, {
+    "tStartMs": 1013030,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "And so we have to define\nwhat we mean by a peak."
+    } ]
+  }, {
+    "tStartMs": 1016180,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "And so, in particular,\nas an example,"
+    } ]
+  }, {
+    "tStartMs": 1020320,
+    "dDurationMs": 7049,
+    "segs": [ {
+      "utf8": "position 2 is a\npeak if, and only"
+    } ]
+  }, {
+    "tStartMs": 1027369,
+    "dDurationMs": 9151,
+    "segs": [ {
+      "utf8": "if, b greater than or equal to\na, and b greater than or equal"
+    } ]
+  }, {
+    "tStartMs": 1036520,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "to c."
+    } ]
+  }, {
+    "tStartMs": 1038020,
+    "dDurationMs": 3339,
+    "segs": [ {
+      "utf8": "So it's really a very local\nproperty corresponding"
+    } ]
+  }, {
+    "tStartMs": 1041359,
+    "dDurationMs": 911,
+    "segs": [ {
+      "utf8": "to a peak."
+    } ]
+  }, {
+    "tStartMs": 1042270,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "In the one dimensional\ncase, it's trivial."
+    } ]
+  }, {
+    "tStartMs": 1045020,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Look to your left."
+    } ]
+  }, {
+    "tStartMs": 1046220,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Look to your right."
+    } ]
+  }, {
+    "tStartMs": 1047990,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "If you are equal or greater\nthan both of the elements"
+    } ]
+  }, {
+    "tStartMs": 1051990,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "that you see on the left and\nthe right, you're a peak."
+    } ]
+  }, {
+    "tStartMs": 1055120,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "OK?"
+    } ]
+  }, {
+    "tStartMs": 1055760,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "And in the case of\nthe edges, you only"
+    } ]
+  }, {
+    "tStartMs": 1058690,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "have to look to one side."
+    } ]
+  }, {
+    "tStartMs": 1060700,
+    "dDurationMs": 12867,
+    "segs": [ {
+      "utf8": "So position 9 is a peak if i\ngreater than or equal to h."
+    } ]
+  }, {
+    "tStartMs": 1073567,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "So you just have to\nlook to your left there,"
+    } ]
+  }, {
+    "tStartMs": 1075400,
+    "dDurationMs": 2083,
+    "segs": [ {
+      "utf8": "because you're all the way\non the right hand side."
+    } ]
+  }, {
+    "tStartMs": 1077483,
+    "dDurationMs": 787,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 1078270,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "So that's it."
+    } ]
+  }, {
+    "tStartMs": 1080480,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "And the statement of the\nproblem, the one dimensional"
+    } ]
+  }, {
+    "tStartMs": 1083920,
+    "dDurationMs": 9900,
+    "segs": [ {
+      "utf8": "version, is find the\npeak if it exists."
+    } ]
+  }, {
+    "tStartMs": 1099490,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 1102070,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "That's all there is to it."
+    } ]
+  }, {
+    "tStartMs": 1104510,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "I'm going to give you a\nstraightforward algorithm."
+    } ]
+  }, {
+    "tStartMs": 1107890,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "And then we'll see\nif we can improve it."
+    } ]
+  }, {
+    "tStartMs": 1110630,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 1111270,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "You can imagine that the\nstraightforward algorithm is"
+    } ]
+  }, {
+    "tStartMs": 1114110,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "something that just, you\nknow, walks across the array."
+    } ]
+  }, {
+    "tStartMs": 1119440,
+    "dDurationMs": 4189,
+    "segs": [ {
+      "utf8": "But we need that as a starting\npoint for building something"
+    } ]
+  }, {
+    "tStartMs": 1123629,
+    "dDurationMs": 791,
+    "segs": [ {
+      "utf8": "more sophisticated."
+    } ]
+  }, {
+    "tStartMs": 1129680,
+    "dDurationMs": 7660,
+    "segs": [ {
+      "utf8": "So let's say we start\nfrom left and all"
+    } ]
+  }, {
+    "tStartMs": 1137340,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "we have is one\ntraversal, really."
+    } ]
+  }, {
+    "tStartMs": 1145360,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "So let's say we have\n1, 2, and then we"
+    } ]
+  }, {
+    "tStartMs": 1147930,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "have n over 2 over\nhere corresponding"
+    } ]
+  }, {
+    "tStartMs": 1150810,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "to the middle of\nthis n element array."
+    } ]
+  }, {
+    "tStartMs": 1154620,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "And then we have\nn minus 1, and n."
+    } ]
+  }, {
+    "tStartMs": 1158970,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "What I'm interested\nin doing is, not only"
+    } ]
+  }, {
+    "tStartMs": 1161090,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "coming up with a\nstraightforward algorithm,"
+    } ]
+  }, {
+    "tStartMs": 1164880,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "but also precisely\ncharacterizing"
+    } ]
+  }, {
+    "tStartMs": 1169300,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "what its complexity\nis in relation"
+    } ]
+  }, {
+    "tStartMs": 1172030,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "to n, which is the\nnumber of inputs."
+    } ]
+  }, {
+    "tStartMs": 1175260,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yeah?"
+    } ]
+  }, {
+    "tStartMs": 1175760,
+    "dDurationMs": 1155,
+    "segs": [ {
+      "utf8": "Question?"
+    } ]
+  }, {
+    "tStartMs": 1176915,
+    "dDurationMs": 1541,
+    "segs": [ {
+      "utf8": "AUDIENCE: Why do\nyou say if it exists"
+    } ]
+  }, {
+    "tStartMs": 1178456,
+    "dDurationMs": 1892,
+    "segs": [ {
+      "utf8": "when the criteria\nin the [INAUDIBLE]"
+    } ]
+  }, {
+    "tStartMs": 1180348,
+    "dDurationMs": 1049,
+    "segs": [ {
+      "utf8": "guarantees [INAUDIBLE]?"
+    } ]
+  }, {
+    "tStartMs": 1181397,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "PROFESSOR: That's exactly right."
+    } ]
+  }, {
+    "tStartMs": 1182730,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "I was going to get to that."
+    } ]
+  }, {
+    "tStartMs": 1184540,
+    "dDurationMs": 5990,
+    "segs": [ {
+      "utf8": "So if you look at the\ndefinition of the peak,"
+    } ]
+  }, {
+    "tStartMs": 1190530,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "then what I have here is\ngreater than or equal to."
+    } ]
+  }, {
+    "tStartMs": 1195210,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "OK?"
+    } ]
+  }, {
+    "tStartMs": 1196010,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "And so this-- That's a great\nquestion that was asked."
+    } ]
+  }, {
+    "tStartMs": 1199660,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "Why is there \"if it\nexists\" in this problem?"
+    } ]
+  }, {
+    "tStartMs": 1204470,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "Now in the case where I have\ngreater than or equal to,"
+    } ]
+  }, {
+    "tStartMs": 1208440,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "then-- this is a homework\nquestion for you,"
+    } ]
+  }, {
+    "tStartMs": 1212310,
+    "dDurationMs": 5930,
+    "segs": [ {
+      "utf8": "and for the rest of you-- argue\nthat any array will always"
+    } ]
+  }, {
+    "tStartMs": 1218240,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "have a peak."
+    } ]
+  }, {
+    "tStartMs": 1219610,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "OK?"
+    } ]
+  }, {
+    "tStartMs": 1220790,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "Now if you didn't have the\ngreater than or equal to,"
+    } ]
+  }, {
+    "tStartMs": 1224300,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "and you had a greater than,\nthen can you make that argument?"
+    } ]
+  }, {
+    "tStartMs": 1229070,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "No, you can't."
+    } ]
+  }, {
+    "tStartMs": 1230120,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 1230820,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "So great question."
+    } ]
+  }, {
+    "tStartMs": 1233230,
+    "dDurationMs": 2629,
+    "segs": [ {
+      "utf8": "In this case it's\njust a question--"
+    } ]
+  }, {
+    "tStartMs": 1235859,
+    "dDurationMs": 1541,
+    "segs": [ {
+      "utf8": "You would want to\nmodify this problem"
+    } ]
+  }, {
+    "tStartMs": 1237400,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "statement to find the peak."
+    } ]
+  }, {
+    "tStartMs": 1238950,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "But if I had a different\ndefinition of a peak-- and this"
+    } ]
+  }, {
+    "tStartMs": 1243710,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "is part of algorithmic thinking."
+    } ]
+  }, {
+    "tStartMs": 1245850,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "You want to be able to create\nalgorithms that are general,"
+    } ]
+  }, {
+    "tStartMs": 1249580,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "so if the problem\ndefinition changes on you,"
+    } ]
+  }, {
+    "tStartMs": 1252130,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "you still have a starting\npoint to go attack"
+    } ]
+  }, {
+    "tStartMs": 1254300,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "the second version\nof the problem."
+    } ]
+  }, {
+    "tStartMs": 1256500,
+    "dDurationMs": 810,
+    "segs": [ {
+      "utf8": "OK?"
+    } ]
+  }, {
+    "tStartMs": 1257310,
+    "dDurationMs": 4169,
+    "segs": [ {
+      "utf8": "So you could eliminate\nthis in the case"
+    } ]
+  }, {
+    "tStartMs": 1261479,
+    "dDurationMs": 1791,
+    "segs": [ {
+      "utf8": "of the greater than or\nequal to definition."
+    } ]
+  }, {
+    "tStartMs": 1263270,
+    "dDurationMs": 2394,
+    "segs": [ {
+      "utf8": "The \"if it exists\", because\na peak will always exist."
+    } ]
+  }, {
+    "tStartMs": 1265664,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "But you probably want\nto argue that when"
+    } ]
+  }, {
+    "tStartMs": 1267330,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "you want to show the\ncorrectness of your algorithm."
+    } ]
+  }, {
+    "tStartMs": 1269950,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "And if in fact you had\na different definition,"
+    } ]
+  }, {
+    "tStartMs": 1273210,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "well you would have to create\nan algorithm that tells you"
+    } ]
+  }, {
+    "tStartMs": 1279130,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "for sure that a peak\ndoesn't exist, or find"
+    } ]
+  }, {
+    "tStartMs": 1282310,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "a peak if it exists."
+    } ]
+  }, {
+    "tStartMs": 1283900,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 1284400,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "So that's really\nthe general case."
+    } ]
+  }, {
+    "tStartMs": 1286300,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "Many a time it's possible that\nyou're asked to do something,"
+    } ]
+  }, {
+    "tStartMs": 1289830,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "and you can't actually give\nan answer to the question,"
+    } ]
+  }, {
+    "tStartMs": 1294990,
+    "dDurationMs": 4345,
+    "segs": [ {
+      "utf8": "or find something that satisfies\nall the constraints required."
+    } ]
+  }, {
+    "tStartMs": 1299335,
+    "dDurationMs": 2375,
+    "segs": [ {
+      "utf8": "And in that case, you want to\nbe able to put up your hand"
+    } ]
+  }, {
+    "tStartMs": 1301710,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "and say, you know what?"
+    } ]
+  }, {
+    "tStartMs": 1303470,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "I searched long and hard."
+    } ]
+  }, {
+    "tStartMs": 1304870,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "I searched exhaustively."
+    } ]
+  }, {
+    "tStartMs": 1306730,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Here's my argument that\nI searched exhaustively,"
+    } ]
+  }, {
+    "tStartMs": 1309930,
+    "dDurationMs": 1171,
+    "segs": [ {
+      "utf8": "and I couldn't find it."
+    } ]
+  }, {
+    "tStartMs": 1311101,
+    "dDurationMs": 499,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 1311600,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "If you do that, you\nget to keep your job."
+    } ]
+  }, {
+    "tStartMs": 1313490,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 1314580,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "Otherwise there's\nalways the case"
+    } ]
+  }, {
+    "tStartMs": 1317390,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "that you didn't\nsearch hard enough."
+    } ]
+  }, {
+    "tStartMs": 1319060,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "So it's nice to\nhave that argument."
+    } ]
+  }, {
+    "tStartMs": 1322310,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 1322810,
+    "dDurationMs": 270,
+    "segs": [ {
+      "utf8": "Great."
+    } ]
+  }, {
+    "tStartMs": 1323080,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "Thanks for the question."
+    } ]
+  }, {
+    "tStartMs": 1324190,
+    "dDurationMs": 980,
+    "segs": [ {
+      "utf8": "Feel free to interrupt."
+    } ]
+  }, {
+    "tStartMs": 1325170,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Raise your hand, and\nI'm watching you guys,"
+    } ]
+  }, {
+    "tStartMs": 1327840,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "and I'm happy to answer\nquestions at any time."
+    } ]
+  }, {
+    "tStartMs": 1331550,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "So let's talk about the\nstraightforward algorithm."
+    } ]
+  }, {
+    "tStartMs": 1334540,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "The straightforward\nalgorithm is something"
+    } ]
+  }, {
+    "tStartMs": 1336510,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "that starts from the left\nand just walks across."
+    } ]
+  }, {
+    "tStartMs": 1340940,
+    "dDurationMs": 3345,
+    "segs": [ {
+      "utf8": "And you might have something\nthat looks like that."
+    } ]
+  }, {
+    "tStartMs": 1344285,
+    "dDurationMs": 675,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 1344960,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "By that-- By this I mean\nthe numbers are increasing"
+    } ]
+  }, {
+    "tStartMs": 1347830,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "as you start from the\nleft, the peak is somewhere"
+    } ]
+  }, {
+    "tStartMs": 1350730,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "in the middle, and then\nthings start decreasing."
+    } ]
+  }, {
+    "tStartMs": 1353620,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 1354120,
+    "dDurationMs": 5450,
+    "segs": [ {
+      "utf8": "So in this case, you know,\nthis might be the peak."
+    } ]
+  }, {
+    "tStartMs": 1366950,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "You also may have\na situation where"
+    } ]
+  }, {
+    "tStartMs": 1369550,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "the peak is all the\nway on the right,"
+    } ]
+  }, {
+    "tStartMs": 1371240,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "you started from the left."
+    } ]
+  }, {
+    "tStartMs": 1372780,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "And it's 1, 2, 3,\n4, 5, 6, literally"
+    } ]
+  }, {
+    "tStartMs": 1375060,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "in terms of the numbers."
+    } ]
+  }, {
+    "tStartMs": 1376390,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "And you're going to look at\nn elements going all the way"
+    } ]
+  }, {
+    "tStartMs": 1381000,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "to the right in order\nto find the peak."
+    } ]
+  }, {
+    "tStartMs": 1384800,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "So in the case of\nthe middle you'd"
+    } ]
+  }, {
+    "tStartMs": 1387310,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "look at n over 2 elements."
+    } ]
+  }, {
+    "tStartMs": 1393770,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "If it was right in the middle."
+    } ]
+  }, {
+    "tStartMs": 1398340,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "And the complexity,\nworst case complexity--"
+    } ]
+  }, {
+    "tStartMs": 1406340,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "--is what we call theta n."
+    } ]
+  }, {
+    "tStartMs": 1409830,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "And it's theta n, because\nin the worst case,"
+    } ]
+  }, {
+    "tStartMs": 1413580,
+    "dDurationMs": 2714,
+    "segs": [ {
+      "utf8": "you may have to look\nat all n elements."
+    } ]
+  }, {
+    "tStartMs": 1416294,
+    "dDurationMs": 2416,
+    "segs": [ {
+      "utf8": "And that would be the case\nwhere you started from the left"
+    } ]
+  }, {
+    "tStartMs": 1418710,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "and you had to go all\nthe way to the right."
+    } ]
+  }, {
+    "tStartMs": 1420860,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "Now remember theta n is\nessentially something"
+    } ]
+  }, {
+    "tStartMs": 1423850,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "that's says of the order of n."
+    } ]
+  }, {
+    "tStartMs": 1425830,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "So it gives you both the lower\nbound and an upper bound."
+    } ]
+  }, {
+    "tStartMs": 1429400,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "Big [? O ?] of n is\njust upper bound."
+    } ]
+  }, {
+    "tStartMs": 1432470,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "And what we're\nsaying here is, we're"
+    } ]
+  }, {
+    "tStartMs": 1433970,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "saying this algorithm\nthat starts from the left"
+    } ]
+  }, {
+    "tStartMs": 1438110,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "is going to, essentially,\nrequire in the worst case"
+    } ]
+  }, {
+    "tStartMs": 1443470,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "something that's a\nconstant times n."
+    } ]
+  }, {
+    "tStartMs": 1446740,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "OK?"
+    } ]
+  }, {
+    "tStartMs": 1447880,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "And you know that\nconstant could be 1."
+    } ]
+  }, {
+    "tStartMs": 1451210,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "You could certainly\nset things up that way."
+    } ]
+  }, {
+    "tStartMs": 1453400,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Or if you had a different\nkind of algorithm,"
+    } ]
+  }, {
+    "tStartMs": 1455860,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "maybe you could work\non the constant."
+    } ]
+  }, {
+    "tStartMs": 1458460,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "But bottom line, we're only\nconcerned, at this moment,"
+    } ]
+  }, {
+    "tStartMs": 1462360,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "about as asymptotic complexity."
+    } ]
+  }, {
+    "tStartMs": 1464760,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "And the asymptotic complexity\nof this algorithm is linear."
+    } ]
+  }, {
+    "tStartMs": 1469030,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 1469710,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "That make sense?"
+    } ]
+  }, {
+    "tStartMs": 1472150,
+    "dDurationMs": 780,
+    "segs": [ {
+      "utf8": "OK."
+    } ]
+  }, {
+    "tStartMs": 1472930,
+    "dDurationMs": 6020,
+    "segs": [ {
+      "utf8": "So someone help me do better."
+    } ]
+  }, {
+    "tStartMs": 1478950,
+    "dDurationMs": 940,
+    "segs": [ {
+      "utf8": "How can we do better?"
+    } ]
+  }, {
+    "tStartMs": 1479890,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "How can we lower the\nasymptotic complexity"
+    } ]
+  }, {
+    "tStartMs": 1483040,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "of a one dimensional\npeak finder?"
+    } ]
+  }, {
+    "tStartMs": 1486700,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "Anybody want to\ntake a stab at that?"
+    } ]
+  }, {
+    "tStartMs": 1488450,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yeah?"
+    } ]
+  }, {
+    "tStartMs": 1488950,
+    "dDurationMs": 1136,
+    "segs": [ {
+      "utf8": "Back there."
+    } ]
+  }, {
+    "tStartMs": 1490086,
+    "dDurationMs": 1992,
+    "segs": [ {
+      "utf8": "AUDIENCE: Do a\nbinary search subset."
+    } ]
+  }, {
+    "tStartMs": 1492078,
+    "dDurationMs": 2158,
+    "segs": [ {
+      "utf8": "You look at the\nmiddle, and whatever"
+    } ]
+  }, {
+    "tStartMs": 1494236,
+    "dDurationMs": 4316,
+    "segs": [ {
+      "utf8": "is higher-- whichever side is\nhigher, then cut that in half,"
+    } ]
+  }, {
+    "tStartMs": 1498552,
+    "dDurationMs": 1738,
+    "segs": [ {
+      "utf8": "because you know there's a peak."
+    } ]
+  }, {
+    "tStartMs": 1500290,
+    "dDurationMs": 120,
+    "segs": [ {
+      "utf8": "PROFESSOR: On--"
+    } ]
+  }, {
+    "tStartMs": 1500410,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "AUDIENCE: For example\nif you're in the middle"
+    } ]
+  }, {
+    "tStartMs": 1501578,
+    "dDurationMs": 1914,
+    "segs": [ {
+      "utf8": "on the right side--\nthere's a higher number"
+    } ]
+  }, {
+    "tStartMs": 1503492,
+    "dDurationMs": 1624,
+    "segs": [ {
+      "utf8": "on the right side--\nthen you would just"
+    } ]
+  }, {
+    "tStartMs": 1505116,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "look at that, because you know\nthat your peak's somewhere"
+    } ]
+  }, {
+    "tStartMs": 1506946,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "in there."
+    } ]
+  }, {
+    "tStartMs": 1507446,
+    "dDurationMs": 1454,
+    "segs": [ {
+      "utf8": "And you continue\ncutting in half."
+    } ]
+  }, {
+    "tStartMs": 1508900,
+    "dDurationMs": 460,
+    "segs": [ {
+      "utf8": "PROFESSOR: Excellent!"
+    } ]
+  }, {
+    "tStartMs": 1509360,
+    "dDurationMs": 499,
+    "segs": [ {
+      "utf8": "Excellent!"
+    } ]
+  }, {
+    "tStartMs": 1509859,
+    "dDurationMs": 1341,
+    "segs": [ {
+      "utf8": "That's exactly right."
+    } ]
+  }, {
+    "tStartMs": 1511200,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "So you can-- You can do\nsomething different, which"
+    } ]
+  }, {
+    "tStartMs": 1514850,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "is essentially try and\nbreak up this problem."
+    } ]
+  }, {
+    "tStartMs": 1519240,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "Use a divide and conquer\nstrategy, and recursively break"
+    } ]
+  }, {
+    "tStartMs": 1522650,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "up this one dimensional\narray into smaller arrays."
+    } ]
+  }, {
+    "tStartMs": 1526550,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "And try and get this\ncomplexity down."
+    } ]
+  }, {
+    "tStartMs": 1529940,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yeah?"
+    } ]
+  }, {
+    "tStartMs": 1530440,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "AUDIENCE: Are we assuming\nthat there's only one peak?"
+    } ]
+  }, {
+    "tStartMs": 1533239,
+    "dDurationMs": 1041,
+    "segs": [ {
+      "utf8": "PROFESSOR: No, we're not."
+    } ]
+  }, {
+    "tStartMs": 1534280,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "AUDIENCE: OK."
+    } ]
+  }, {
+    "tStartMs": 1534980,
+    "dDurationMs": 4239,
+    "segs": [ {
+      "utf8": "PROFESSOR: It's find\na peak if it exists."
+    } ]
+  }, {
+    "tStartMs": 1539219,
+    "dDurationMs": 1541,
+    "segs": [ {
+      "utf8": "And in this case\nit's, \"find a peak\","
+    } ]
+  }, {
+    "tStartMs": 1540760,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "because of the definition."
+    } ]
+  }, {
+    "tStartMs": 1542610,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "We don't really need\nthis as it was discussed."
+    } ]
+  }, {
+    "tStartMs": 1545910,
+    "dDurationMs": 750,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 1546660,
+    "dDurationMs": 520,
+    "segs": [ {
+      "utf8": "OK."
+    } ]
+  }, {
+    "tStartMs": 1547180,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "So--"
+    } ]
+  }, {
+    "tStartMs": 1549080,
+    "dDurationMs": 4312,
+    "segs": [ {
+      "utf8": "So that was a great answer,\nand-- You know this class"
+    } ]
+  }, {
+    "tStartMs": 1553392,
+    "dDurationMs": 1458,
+    "segs": [ {
+      "utf8": "after while is\ngoing to get boring."
+    } ]
+  }, {
+    "tStartMs": 1554850,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 1555770,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Every class gets boring."
+    } ]
+  }, {
+    "tStartMs": 1557650,
+    "dDurationMs": 3127,
+    "segs": [ {
+      "utf8": "So we, you know, try and\nbreak the monotony here a bit."
+    } ]
+  }, {
+    "tStartMs": 1560777,
+    "dDurationMs": 2083,
+    "segs": [ {
+      "utf8": "And so-- And then the other\nthing that we realized"
+    } ]
+  }, {
+    "tStartMs": 1562860,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "was that these seats\nyou're sitting on-- this"
+    } ]
+  }, {
+    "tStartMs": 1564790,
+    "dDurationMs": 2208,
+    "segs": [ {
+      "utf8": "is a nice classroom-- but\nthe seats you're sitting on"
+    } ]
+  }, {
+    "tStartMs": 1566998,
+    "dDurationMs": 752,
+    "segs": [ {
+      "utf8": "are kind of hard."
+    } ]
+  }, {
+    "tStartMs": 1567750,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 1568250,
+    "dDurationMs": 2537,
+    "segs": [ {
+      "utf8": "So what Eric and I\ndid was we decided"
+    } ]
+  }, {
+    "tStartMs": 1570787,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "we'll help you guys\nout, especially the ones"
+    } ]
+  }, {
+    "tStartMs": 1572620,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "who are-- who are\ninteracting with us."
+    } ]
+  }, {
+    "tStartMs": 1575870,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "And we have these--"
+    } ]
+  }, {
+    "tStartMs": 1577580,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "[LAUGHTER]"
+    } ]
+  }, {
+    "tStartMs": 1578610,
+    "dDurationMs": 3535,
+    "segs": [ {
+      "utf8": "--cushions that\nare 6.006 cushions."
+    } ]
+  }, {
+    "tStartMs": 1582145,
+    "dDurationMs": 3025,
+    "segs": [ {
+      "utf8": "And, you know, that's a 2\nby 2 by 2 Rubik's cube here."
+    } ]
+  }, {
+    "tStartMs": 1585170,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "And since you answered the first\nquestion, you get a cushion."
+    } ]
+  }, {
+    "tStartMs": 1588410,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "This is kind of like a\nFrisbee, but not really."
+    } ]
+  }, {
+    "tStartMs": 1591510,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "So--"
+    } ]
+  }, {
+    "tStartMs": 1592010,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "[LAUGHTER]"
+    } ]
+  }, {
+    "tStartMs": 1592510,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "I'm not sure-- I'm not sure\nI'm going to get it to you."
+    } ]
+  }, {
+    "tStartMs": 1595190,
+    "dDurationMs": 1375,
+    "segs": [ {
+      "utf8": "But the other\nthing I want to say"
+    } ]
+  }, {
+    "tStartMs": 1596565,
+    "dDurationMs": 1405,
+    "segs": [ {
+      "utf8": "is this is not a baseball game."
+    } ]
+  }, {
+    "tStartMs": 1597970,
+    "dDurationMs": 499,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 1598469,
+    "dDurationMs": 2091,
+    "segs": [ {
+      "utf8": "Where you just grab the\nball as it comes by."
+    } ]
+  }, {
+    "tStartMs": 1600560,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "This is meant for him, my\nfriend in the red shirt."
+    } ]
+  }, {
+    "tStartMs": 1603670,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "So here you go."
+    } ]
+  }, {
+    "tStartMs": 1605920,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Ah, too bad."
+    } ]
+  }, {
+    "tStartMs": 1606820,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "All right."
+    } ]
+  }, {
+    "tStartMs": 1607620,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "It is soft."
+    } ]
+  }, {
+    "tStartMs": 1608580,
+    "dDurationMs": 2675,
+    "segs": [ {
+      "utf8": "So, you know, it won't-- it\nwon't hurt you if hits you."
+    } ]
+  }, {
+    "tStartMs": 1611255,
+    "dDurationMs": 655,
+    "segs": [ {
+      "utf8": "[LAUGHTER]"
+    } ]
+  }, {
+    "tStartMs": 1611910,
+    "dDurationMs": 630,
+    "segs": [ {
+      "utf8": "All right."
+    } ]
+  }, {
+    "tStartMs": 1612540,
+    "dDurationMs": 1676,
+    "segs": [ {
+      "utf8": "So we got a bunch of these."
+    } ]
+  }, {
+    "tStartMs": 1614216,
+    "dDurationMs": 3084,
+    "segs": [ {
+      "utf8": "And raise your hands,\nyou know, going"
+    } ]
+  }, {
+    "tStartMs": 1617300,
+    "dDurationMs": 3725,
+    "segs": [ {
+      "utf8": "to ask-- There's going\nto be-- I think-- There's"
+    } ]
+  }, {
+    "tStartMs": 1621025,
+    "dDurationMs": 2125,
+    "segs": [ {
+      "utf8": "some trivial questions that\nwe're going to ask just"
+    } ]
+  }, {
+    "tStartMs": 1623150,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "to make sure you're awake."
+    } ]
+  }, {
+    "tStartMs": 1625180,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "So an answer to that\ndoesn't get you a cushion."
+    } ]
+  }, {
+    "tStartMs": 1627750,
+    "dDurationMs": 2764,
+    "segs": [ {
+      "utf8": "But an answer like--\nWhat's your name?"
+    } ]
+  }, {
+    "tStartMs": 1630514,
+    "dDurationMs": 666,
+    "segs": [ {
+      "utf8": "AUDIENCE: Chase."
+    } ]
+  }, {
+    "tStartMs": 1631180,
+    "dDurationMs": 710,
+    "segs": [ {
+      "utf8": "PROFESSOR: Chase."
+    } ]
+  }, {
+    "tStartMs": 1631890,
+    "dDurationMs": 3244,
+    "segs": [ {
+      "utf8": "An answer like\nChase just gave is--"
+    } ]
+  }, {
+    "tStartMs": 1635134,
+    "dDurationMs": 1916,
+    "segs": [ {
+      "utf8": "that's a good answer to\na nontrivial question."
+    } ]
+  }, {
+    "tStartMs": 1637050,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "That gets you a cushion."
+    } ]
+  }, {
+    "tStartMs": 1638500,
+    "dDurationMs": 790,
+    "segs": [ {
+      "utf8": "OK?"
+    } ]
+  }, {
+    "tStartMs": 1639290,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "All right, great."
+    } ]
+  }, {
+    "tStartMs": 1640300,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "So let's put up by\nChase's algorithm up here."
+    } ]
+  }, {
+    "tStartMs": 1644230,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "I'm going to write it\nout for the 1D version."
+    } ]
+  }, {
+    "tStartMs": 1661390,
+    "dDurationMs": 3815,
+    "segs": [ {
+      "utf8": "So what we have here is\na recursive algorithm."
+    } ]
+  }, {
+    "tStartMs": 1682967,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "So the picture you want\nto keep in your head"
+    } ]
+  }, {
+    "tStartMs": 1684800,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "is this picture\nthat I put up there."
+    } ]
+  }, {
+    "tStartMs": 1686860,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "And this is a divide\nand conquer algorithm."
+    } ]
+  }, {
+    "tStartMs": 1691010,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "You're going to see this over\nand over-- this paradigm--"
+    } ]
+  }, {
+    "tStartMs": 1694140,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "over and over in 6.006."
+    } ]
+  }, {
+    "tStartMs": 1697360,
+    "dDurationMs": 5385,
+    "segs": [ {
+      "utf8": "We're going to look at\nthe n over 2 position."
+    } ]
+  }, {
+    "tStartMs": 1705990,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "And we're going to\nlook to the left,"
+    } ]
+  }, {
+    "tStartMs": 1708700,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "and we're going to\nlook to the right."
+    } ]
+  }, {
+    "tStartMs": 1711010,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "And we're going to\ndo that in sequence."
+    } ]
+  }, {
+    "tStartMs": 1713420,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "So--"
+    } ]
+  }, {
+    "tStartMs": 1716680,
+    "dDurationMs": 14270,
+    "segs": [ {
+      "utf8": "--if a n over 2 is less than\na n over 2 minus 1, then--"
+    } ]
+  }, {
+    "tStartMs": 1730950,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "--only look at the left half."
+    } ]
+  }, {
+    "tStartMs": 1737680,
+    "dDurationMs": 6730,
+    "segs": [ {
+      "utf8": "1 through n over 2 minus 1 to\nlook for peak-- for a peak."
+    } ]
+  }, {
+    "tStartMs": 1748381,
+    "dDurationMs": 499,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 1748880,
+    "dDurationMs": 1415,
+    "segs": [ {
+      "utf8": "So that's step one."
+    } ]
+  }, {
+    "tStartMs": 1750295,
+    "dDurationMs": 1875,
+    "segs": [ {
+      "utf8": "And you know I could\nput it on the right hand"
+    } ]
+  }, {
+    "tStartMs": 1752170,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "side or the left hand side,\ndoesn't really matter."
+    } ]
+  }, {
+    "tStartMs": 1755990,
+    "dDurationMs": 4321,
+    "segs": [ {
+      "utf8": "I chose to do the left hand\nside first, the left half."
+    } ]
+  }, {
+    "tStartMs": 1760311,
+    "dDurationMs": 4259,
+    "segs": [ {
+      "utf8": "And so what I've done is,\nthrough that one step,"
+    } ]
+  }, {
+    "tStartMs": 1764570,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "if in fact you have that\ncondition-- a n over 2"
+    } ]
+  }, {
+    "tStartMs": 1770010,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "is less than a n over 2 minus\n1-- then you move to your left"
+    } ]
+  }, {
+    "tStartMs": 1773630,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "and you work on one\nhalf of the problem."
+    } ]
+  }, {
+    "tStartMs": 1777490,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "But if that's not the case,\nthen if n over-- n over 2"
+    } ]
+  }, {
+    "tStartMs": 1783120,
+    "dDurationMs": 5050,
+    "segs": [ {
+      "utf8": "is less than a over n\nover-- n by 2 plus 1,"
+    } ]
+  }, {
+    "tStartMs": 1788170,
+    "dDurationMs": 9350,
+    "segs": [ {
+      "utf8": "then only look at n over 2\nplus 1 through n for a peak."
+    } ]
+  }, {
+    "tStartMs": 1797520,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "So I haven't bothered\nwriting out all the words."
+    } ]
+  }, {
+    "tStartMs": 1799960,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "They're exactly the same\nas the left hand side."
+    } ]
+  }, {
+    "tStartMs": 1803480,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "You just look to\nthe right hand side."
+    } ]
+  }, {
+    "tStartMs": 1806160,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "Otherwise if both of these\nconditions don't fire,"
+    } ]
+  }, {
+    "tStartMs": 1810430,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "you're actually done."
+    } ]
+  }, {
+    "tStartMs": 1812160,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "OK?"
+    } ]
+  }, {
+    "tStartMs": 1812660,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "That's actually the best case\nin terms of finishing early,"
+    } ]
+  }, {
+    "tStartMs": 1816130,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "at least in this recursive step."
+    } ]
+  }, {
+    "tStartMs": 1818340,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Because now the n over\n2 position is a peak."
+    } ]
+  }, {
+    "tStartMs": 1827210,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "Because what you found is\nthat the n over 2 position"
+    } ]
+  }, {
+    "tStartMs": 1830500,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "is greater than or equal to\nboth of its adjacent positions,"
+    } ]
+  }, {
+    "tStartMs": 1834740,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "and that's exactly the\ndefinition of a peak."
+    } ]
+  }, {
+    "tStartMs": 1836850,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "So you're done."
+    } ]
+  }, {
+    "tStartMs": 1838430,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "OK?"
+    } ]
+  }, {
+    "tStartMs": 1839350,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "So all of this is good."
+    } ]
+  }, {
+    "tStartMs": 1844500,
+    "dDurationMs": 8807,
+    "segs": [ {
+      "utf8": "You want to write an argument\nthat this algorithm is correct."
+    } ]
+  }, {
+    "tStartMs": 1853307,
+    "dDurationMs": 1583,
+    "segs": [ {
+      "utf8": "And I'm not going\nto bother with that."
+    } ]
+  }, {
+    "tStartMs": 1854890,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "I just wave my hands a\nbit, and you all nodded,"
+    } ]
+  }, {
+    "tStartMs": 1859530,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "so we're done with that."
+    } ]
+  }, {
+    "tStartMs": 1861230,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "But the point being you\nwill see in your problem set"
+    } ]
+  }, {
+    "tStartMs": 1867310,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "a precise argument for a more\ncomplicated algorithm, the 2D"
+    } ]
+  }, {
+    "tStartMs": 1871560,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "version of this."
+    } ]
+  }, {
+    "tStartMs": 1872720,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "And that should be a template\nfor you to go write a proof,"
+    } ]
+  }, {
+    "tStartMs": 1876900,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "or an argument, a\nformal argument,"
+    } ]
+  }, {
+    "tStartMs": 1879200,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "that a particular\nalgorithm is correct."
+    } ]
+  }, {
+    "tStartMs": 1881620,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "That it does what\nit claims to do."
+    } ]
+  }, {
+    "tStartMs": 1883550,
+    "dDurationMs": 6820,
+    "segs": [ {
+      "utf8": "And in this case it's two,\nthree lines of careful reasoning"
+    } ]
+  }, {
+    "tStartMs": 1890370,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "that essentially say, given\nthe definition of the peak,"
+    } ]
+  }, {
+    "tStartMs": 1894520,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "that this is going to\nfind a peak in the array"
+    } ]
+  }, {
+    "tStartMs": 1898600,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "that you're given."
+    } ]
+  }, {
+    "tStartMs": 1899860,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 1900900,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "So we all believe that\nthis algorithm is correct."
+    } ]
+  }, {
+    "tStartMs": 1904910,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "Let's talk now about the\ncomplexity of this algorithm."
+    } ]
+  }, {
+    "tStartMs": 1908650,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Because the whole\npoint of this algorithm"
+    } ]
+  }, {
+    "tStartMs": 1910630,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "was because we didn't\nlike this theta"
+    } ]
+  }, {
+    "tStartMs": 1912700,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "n complexity corresponding to\nthe straightforward algorithm."
+    } ]
+  }, {
+    "tStartMs": 1916350,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "So it'd like to do better."
+    } ]
+  }, {
+    "tStartMs": 1928350,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "So what I'd like to\ndo is ask one of you"
+    } ]
+  }, {
+    "tStartMs": 1930830,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "to give me a recurrence relation\nof the kind, you know, T of n"
+    } ]
+  }, {
+    "tStartMs": 1934890,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "equals blah, blah, blah."
+    } ]
+  }, {
+    "tStartMs": 1938040,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "That would correspond to\nthis recursive algorithm,"
+    } ]
+  }, {
+    "tStartMs": 1942310,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "this divide and\nconquer algorithm."
+    } ]
+  }, {
+    "tStartMs": 1944020,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "And then using that, I'd like\nto get to the actual complexity"
+    } ]
+  }, {
+    "tStartMs": 1949050,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "in terms of what the theta\nof complexity corresponds to."
+    } ]
+  }, {
+    "tStartMs": 1953280,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yeah?"
+    } ]
+  }, {
+    "tStartMs": 1953780,
+    "dDurationMs": 972,
+    "segs": [ {
+      "utf8": "Back there?"
+    } ]
+  }, {
+    "tStartMs": 1954752,
+    "dDurationMs": 4928,
+    "segs": [ {
+      "utf8": "AUDIENCE: So the worst\ncase scenario if T of n"
+    } ]
+  }, {
+    "tStartMs": 1959680,
+    "dDurationMs": 3115,
+    "segs": [ {
+      "utf8": "is going to be some\nconstant amount of time--"
+    } ]
+  }, {
+    "tStartMs": 1962795,
+    "dDurationMs": 625,
+    "segs": [ {
+      "utf8": "PROFESSOR: Yep."
+    } ]
+  }, {
+    "tStartMs": 1963420,
+    "dDurationMs": 3696,
+    "segs": [ {
+      "utf8": "AUDIENCE: --it takes to\ninvestigate whether a certain"
+    } ]
+  }, {
+    "tStartMs": 1967116,
+    "dDurationMs": 2735,
+    "segs": [ {
+      "utf8": "element is [INAUDIBLE], plus--"
+    } ]
+  }, {
+    "tStartMs": 1969851,
+    "dDurationMs": 862,
+    "segs": [ {
+      "utf8": "[COUGH]"
+    } ]
+  }, {
+    "tStartMs": 1970713,
+    "dDurationMs": 1309,
+    "segs": [ {
+      "utf8": "--T of n over 2?"
+    } ]
+  }, {
+    "tStartMs": 1972022,
+    "dDurationMs": 708,
+    "segs": [ {
+      "utf8": "PROFESSOR: Great."
+    } ]
+  }, {
+    "tStartMs": 1972730,
+    "dDurationMs": 820,
+    "segs": [ {
+      "utf8": "Exactly right."
+    } ]
+  }, {
+    "tStartMs": 1973550,
+    "dDurationMs": 910,
+    "segs": [ {
+      "utf8": "That's exactly right."
+    } ]
+  }, {
+    "tStartMs": 1974460,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "So if you look at this\nalgorithm and you say,"
+    } ]
+  }, {
+    "tStartMs": 1978370,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "from a computation\nstandpoint, can I"
+    } ]
+  }, {
+    "tStartMs": 1981290,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "write an equation\ncorresponding to the execution"
+    } ]
+  }, {
+    "tStartMs": 1985510,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "of this algorithm?"
+    } ]
+  }, {
+    "tStartMs": 1986570,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "And you say, T of n is the work\nthat this algorithm does on--"
+    } ]
+  }, {
+    "tStartMs": 1991350,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "as input of size n."
+    } ]
+  }, {
+    "tStartMs": 1993630,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "OK?"
+    } ]
+  }, {
+    "tStartMs": 2005390,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Then I can write this equation."
+    } ]
+  }, {
+    "tStartMs": 2011310,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "And this theta 1 corresponds\nto the two comparisons"
+    } ]
+  }, {
+    "tStartMs": 2014530,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "that you do looking at--\npotentially the two comparisons"
+    } ]
+  }, {
+    "tStartMs": 2017697,
+    "dDurationMs": 1583,
+    "segs": [ {
+      "utf8": "that you do-- looking\nat the left hand"
+    } ]
+  }, {
+    "tStartMs": 2019280,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "side and the right hand side."
+    } ]
+  }, {
+    "tStartMs": 2021440,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "So that's-- 2 is a constant,\nso that's why we put theta 1."
+    } ]
+  }, {
+    "tStartMs": 2024580,
+    "dDurationMs": 620,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 2025200,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "So you get a cushion, too."
+    } ]
+  }, {
+    "tStartMs": 2027060,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "Watch out guys."
+    } ]
+  }, {
+    "tStartMs": 2029630,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "Whoa!"
+    } ]
+  }, {
+    "tStartMs": 2030780,
+    "dDurationMs": 1412,
+    "segs": [ {
+      "utf8": "Oh actually that wasn't so bad."
+    } ]
+  }, {
+    "tStartMs": 2032192,
+    "dDurationMs": 1808,
+    "segs": [ {
+      "utf8": "Good."
+    } ]
+  }, {
+    "tStartMs": 2034000,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Veers left, Eric."
+    } ]
+  }, {
+    "tStartMs": 2035620,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Veers left."
+    } ]
+  }, {
+    "tStartMs": 2037420,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "So if you take this and\nyou start expanding it,"
+    } ]
+  }, {
+    "tStartMs": 2043360,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "eventually you're going\nto get to the base"
+    } ]
+  }, {
+    "tStartMs": 2045180,
+    "dDurationMs": 6911,
+    "segs": [ {
+      "utf8": "case, which is T\nof 1 is theta 1."
+    } ]
+  }, {
+    "tStartMs": 2052091,
+    "dDurationMs": 499,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 2052590,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "Because you have a one element\narray you just for that array"
+    } ]
+  }, {
+    "tStartMs": 2056580,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "it's just going to\nreturn that as a peak."
+    } ]
+  }, {
+    "tStartMs": 2059650,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "And so if you do that, and\nyou expand it all the way out,"
+    } ]
+  }, {
+    "tStartMs": 2063130,
+    "dDurationMs": 7950,
+    "segs": [ {
+      "utf8": "then you can write T of n\nequals theta 1 plus theta 1."
+    } ]
+  }, {
+    "tStartMs": 2071080,
+    "dDurationMs": 8220,
+    "segs": [ {
+      "utf8": "And you're going to do this\nlog to the base 2 of n times."
+    } ]
+  }, {
+    "tStartMs": 2079300,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "And adding these\nall up, gives you"
+    } ]
+  }, {
+    "tStartMs": 2083660,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "a complexity theta log 2 of n."
+    } ]
+  }, {
+    "tStartMs": 2086360,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 2088330,
+    "dDurationMs": 4759,
+    "segs": [ {
+      "utf8": "So now you compare\nthis with that."
+    } ]
+  }, {
+    "tStartMs": 2093089,
+    "dDurationMs": 1541,
+    "segs": [ {
+      "utf8": "And there's really\na huge difference."
+    } ]
+  }, {
+    "tStartMs": 2094630,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "There's an exponential\ndifference."
+    } ]
+  }, {
+    "tStartMs": 2097440,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "If you coded up this\nalgorithm in Python--"
+    } ]
+  }, {
+    "tStartMs": 2101860,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "and I did-- both these\nalgorithms for the 1D version--"
+    } ]
+  }, {
+    "tStartMs": 2106170,
+    "dDurationMs": 7990,
+    "segs": [ {
+      "utf8": "and if you run it on n\nbeing 10 million or so,"
+    } ]
+  }, {
+    "tStartMs": 2114160,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "then this algorithm\ntakes 13 seconds."
+    } ]
+  }, {
+    "tStartMs": 2117820,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "OK?"
+    } ]
+  }, {
+    "tStartMs": 2118320,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "The-- The theta 10\nalgorithm takes 13 seconds."
+    } ]
+  }, {
+    "tStartMs": 2121880,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "And this one takes\n0.001 seconds."
+    } ]
+  }, {
+    "tStartMs": 2126070,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "OK?"
+    } ]
+  }, {
+    "tStartMs": 2126570,
+    "dDurationMs": 1359,
+    "segs": [ {
+      "utf8": "Huge difference."
+    } ]
+  }, {
+    "tStartMs": 2127929,
+    "dDurationMs": 2416,
+    "segs": [ {
+      "utf8": "So there is a big difference\nbetween theta n and theta log"
+    } ]
+  }, {
+    "tStartMs": 2130345,
+    "dDurationMs": 1625,
+    "segs": [ {
+      "utf8": "n."
+    } ]
+  }, {
+    "tStartMs": 2131970,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "It's literally the difference\nbetween 2 raised to n, and n."
+    } ]
+  }, {
+    "tStartMs": 2135840,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "It makes sense to try\nand reduce complexity"
+    } ]
+  }, {
+    "tStartMs": 2140120,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "as you can see,\nespecially if you're"
+    } ]
+  }, {
+    "tStartMs": 2143000,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "talking about large inputs."
+    } ]
+  }, {
+    "tStartMs": 2144450,
+    "dDurationMs": 940,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 2145390,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "And you'll see that\nmore clearly as we"
+    } ]
+  }, {
+    "tStartMs": 2148860,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "go to a 2D version\nof this problem."
+    } ]
+  }, {
+    "tStartMs": 2151300,
+    "dDurationMs": 902,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 2152202,
+    "dDurationMs": 1708,
+    "segs": [ {
+      "utf8": "So you can't really\ndo better for the 1D."
+    } ]
+  }, {
+    "tStartMs": 2153910,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "The 1D is a\nstraightforward problem."
+    } ]
+  }, {
+    "tStartMs": 2156750,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "It gets a little\nmore interesting--"
+    } ]
+  }, {
+    "tStartMs": 2158500,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "the problems get a\nlittle-- excuse me,"
+    } ]
+  }, {
+    "tStartMs": 2161080,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "the algorithms get a\nlittle more sophisticated"
+    } ]
+  }, {
+    "tStartMs": 2163600,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "when we look at a 2D\nversion of peak finding."
+    } ]
+  }, {
+    "tStartMs": 2168340,
+    "dDurationMs": 2195,
+    "segs": [ {
+      "utf8": "So let's talk about\nthe 2D version."
+    } ]
+  }, {
+    "tStartMs": 2175810,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "So as you can imagine\nin the 2D version"
+    } ]
+  }, {
+    "tStartMs": 2178250,
+    "dDurationMs": 2465,
+    "segs": [ {
+      "utf8": "you have a matrix, or a\ntwo dimensional array."
+    } ]
+  }, {
+    "tStartMs": 2183490,
+    "dDurationMs": 6085,
+    "segs": [ {
+      "utf8": "And we'll say this thing\nhas n rows and m columns."
+    } ]
+  }, {
+    "tStartMs": 2194700,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "And now we have to\ndefine what a peak is."
+    } ]
+  }, {
+    "tStartMs": 2197190,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "And it's a hill."
+    } ]
+  }, {
+    "tStartMs": 2198350,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "It's the obvious\ndefinition of a peak."
+    } ]
+  }, {
+    "tStartMs": 2201540,
+    "dDurationMs": 8950,
+    "segs": [ {
+      "utf8": "So if you had a in\nhere, c, b, d, e."
+    } ]
+  }, {
+    "tStartMs": 2210490,
+    "dDurationMs": 11760,
+    "segs": [ {
+      "utf8": "Then as you can guess, a is\na 2D peak if, and only if,"
+    } ]
+  }, {
+    "tStartMs": 2222250,
+    "dDurationMs": 6580,
+    "segs": [ {
+      "utf8": "a greater than or equal to b;\na greater than or equal to d, c"
+    } ]
+  }, {
+    "tStartMs": 2228830,
+    "dDurationMs": 1231,
+    "segs": [ {
+      "utf8": "and e."
+    } ]
+  }, {
+    "tStartMs": 2230061,
+    "dDurationMs": 499,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 2230560,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "So it's a little hill up there."
+    } ]
+  }, {
+    "tStartMs": 2232230,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 2232730,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "And again I've used the\ngreater than or equal to here,"
+    } ]
+  }, {
+    "tStartMs": 2235120,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "so that's similar to\nthe 1D in the case"
+    } ]
+  }, {
+    "tStartMs": 2238490,
+    "dDurationMs": 2855,
+    "segs": [ {
+      "utf8": "that you'll always find\na peak in any 2D matrix."
+    } ]
+  }, {
+    "tStartMs": 2243960,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "Now again I'll give you the\nstraightforward algorithm,"
+    } ]
+  }, {
+    "tStartMs": 2249210,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "and we'll call it the\nGreedy Ascent algorithm."
+    } ]
+  }, {
+    "tStartMs": 2261660,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "And the Greedy Ascent algorithm\nessentially picks a direction"
+    } ]
+  }, {
+    "tStartMs": 2265820,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "and, you know, tries to\nfollow that direction in order"
+    } ]
+  }, {
+    "tStartMs": 2270560,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "to find a peak."
+    } ]
+  }, {
+    "tStartMs": 2272770,
+    "dDurationMs": 9070,
+    "segs": [ {
+      "utf8": "So for example, if I\nhad this particular--"
+    } ]
+  }, {
+    "tStartMs": 2281840,
+    "dDurationMs": 8950,
+    "segs": [ {
+      "utf8": "--matrix; 14, 13,\n12, 15, 9, 11, 17--"
+    } ]
+  }, {
+    "tStartMs": 2297010,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Then what might happen is if\nI started at some arbitrary"
+    } ]
+  }, {
+    "tStartMs": 2300850,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "midpoint-- So the\nGreedy Ascent algorithm"
+    } ]
+  }, {
+    "tStartMs": 2303360,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "has to make choices\nas to where to start."
+    } ]
+  }, {
+    "tStartMs": 2306210,
+    "dDurationMs": 2932,
+    "segs": [ {
+      "utf8": "Just like we had\ndifferent cases here,"
+    } ]
+  }, {
+    "tStartMs": 2309142,
+    "dDurationMs": 1958,
+    "segs": [ {
+      "utf8": "you have to make a choice\nas to where to start."
+    } ]
+  }, {
+    "tStartMs": 2311100,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "You might want to\nstart in the middle,"
+    } ]
+  }, {
+    "tStartMs": 2312770,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "and you might want to\nwork your way left first."
+    } ]
+  }, {
+    "tStartMs": 2315560,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Or you're going to all--\nYou just keep going left,"
+    } ]
+  }, {
+    "tStartMs": 2318380,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "our keep going right."
+    } ]
+  }, {
+    "tStartMs": 2319720,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "And if you hit an\nedge, you go down."
+    } ]
+  }, {
+    "tStartMs": 2322340,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "So you make some choices as\nto what the default traversal"
+    } ]
+  }, {
+    "tStartMs": 2326450,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "directions are."
+    } ]
+  }, {
+    "tStartMs": 2327810,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "And so if you say you\nwant to start with 12,"
+    } ]
+  }, {
+    "tStartMs": 2330820,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "you are going to go look\nfor something to left."
+    } ]
+  }, {
+    "tStartMs": 2334050,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "And if it's greater than, you're\ngoing to follow that direction."
+    } ]
+  }, {
+    "tStartMs": 2338470,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "If it's not, if it's\nless, then you're"
+    } ]
+  }, {
+    "tStartMs": 2340950,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "going to go in the other\ndirection, in this case,"
+    } ]
+  }, {
+    "tStartMs": 2344200,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "for example."
+    } ]
+  }, {
+    "tStartMs": 2345160,
+    "dDurationMs": 7960,
+    "segs": [ {
+      "utf8": "So in this case you'll go to\n12, 13 , 14, 15, 16, 17, 19,"
+    } ]
+  }, {
+    "tStartMs": 2353120,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "and 20."
+    } ]
+  }, {
+    "tStartMs": 2354230,
+    "dDurationMs": 3535,
+    "segs": [ {
+      "utf8": "And you'd find-- You\n'd find this peak."
+    } ]
+  }, {
+    "tStartMs": 2357765,
+    "dDurationMs": 3915,
+    "segs": [ {
+      "utf8": "Now I haven't given you\nthe specific details"
+    } ]
+  }, {
+    "tStartMs": 2361680,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "of a Greedy Ascent algorithm."
+    } ]
+  }, {
+    "tStartMs": 2363750,
+    "dDurationMs": 9650,
+    "segs": [ {
+      "utf8": "But I think if you look at\nthe worst case possibilities"
+    } ]
+  }, {
+    "tStartMs": 2373400,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "here, with respect\nto a given matrix,"
+    } ]
+  }, {
+    "tStartMs": 2376370,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "and for any given\nstarting point,"
+    } ]
+  }, {
+    "tStartMs": 2378920,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "and for any given strategy-- in\nterms of choosing left first,"
+    } ]
+  }, {
+    "tStartMs": 2383270,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "versus right first, or down\nfirst versus up first--"
+    } ]
+  }, {
+    "tStartMs": 2388630,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "you will have a\nsituation where-- just"
+    } ]
+  }, {
+    "tStartMs": 2391370,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "like we had in the 1D\ncase-- you may end up"
+    } ]
+  }, {
+    "tStartMs": 2395450,
+    "dDurationMs": 6565,
+    "segs": [ {
+      "utf8": "touching a large fraction of\nthe elements in this 2D array."
+    } ]
+  }, {
+    "tStartMs": 2402015,
+    "dDurationMs": 735,
+    "segs": [ {
+      "utf8": "OK?"
+    } ]
+  }, {
+    "tStartMs": 2402750,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "So in this case, we\nended up, you know,"
+    } ]
+  }, {
+    "tStartMs": 2405190,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "touching a bunch of\ndifferent elements."
+    } ]
+  }, {
+    "tStartMs": 2406890,
+    "dDurationMs": 3639,
+    "segs": [ {
+      "utf8": "And it's quite possible that\nyou could end up touching--"
+    } ]
+  }, {
+    "tStartMs": 2410529,
+    "dDurationMs": 2291,
+    "segs": [ {
+      "utf8": "starting from the midpoint--\nyou could up touching half"
+    } ]
+  }, {
+    "tStartMs": 2412820,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "the elements, and in some cases,\ntouching all the elements."
+    } ]
+  }, {
+    "tStartMs": 2416990,
+    "dDurationMs": 6010,
+    "segs": [ {
+      "utf8": "So if you do a worst case\nanalysis of this algorithm--"
+    } ]
+  }, {
+    "tStartMs": 2423000,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "a particular algorithm with\nparticular choices in terms"
+    } ]
+  }, {
+    "tStartMs": 2425410,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "of the starting point and\nthe direction of search--"
+    } ]
+  }, {
+    "tStartMs": 2430370,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "a Greedy Ascent algorithm would\nhave theta n m complexity."
+    } ]
+  }, {
+    "tStartMs": 2433750,
+    "dDurationMs": 570,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 2434320,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "And in the case where n\nequals m, or m equals n,"
+    } ]
+  }, {
+    "tStartMs": 2442480,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "you'd have theta n\nsquared complexity."
+    } ]
+  }, {
+    "tStartMs": 2444840,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "OK?"
+    } ]
+  }, {
+    "tStartMs": 2446290,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "I won't spend very\nmuch time on this,"
+    } ]
+  }, {
+    "tStartMs": 2448440,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "because I want to talk\nto you about the divide"
+    } ]
+  }, {
+    "tStartMs": 2452150,
+    "dDurationMs": 5870,
+    "segs": [ {
+      "utf8": "and conquer versions of this\nalgorithm for the 2D peak."
+    } ]
+  }, {
+    "tStartMs": 2458020,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "But hopefully you're\nall with me with respect"
+    } ]
+  }, {
+    "tStartMs": 2460860,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "to what the worst\ncase complexity is."
+    } ]
+  }, {
+    "tStartMs": 2463530,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 2464990,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "People buy that?"
+    } ]
+  }, {
+    "tStartMs": 2466070,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 2466570,
+    "dDurationMs": 820,
+    "segs": [ {
+      "utf8": "Question back there."
+    } ]
+  }, {
+    "tStartMs": 2467390,
+    "dDurationMs": 1874,
+    "segs": [ {
+      "utf8": "AUDIENCE: Can you-- Is\nthat an approximation?"
+    } ]
+  }, {
+    "tStartMs": 2469264,
+    "dDurationMs": 5366,
+    "segs": [ {
+      "utf8": "Or can you actually get\nto n times m traversals?"
+    } ]
+  }, {
+    "tStartMs": 2474630,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "PROFESSOR: So there are specific\nGreedy Ascent algorithms,"
+    } ]
+  }, {
+    "tStartMs": 2478780,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "and specific matrices\nwhere, if I give you"
+    } ]
+  }, {
+    "tStartMs": 2481680,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "the code for the algorithm, and\nI give you a specific matrix,"
+    } ]
+  }, {
+    "tStartMs": 2484680,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "that I could make you touch\nall of these elements."
+    } ]
+  }, {
+    "tStartMs": 2488200,
+    "dDurationMs": 670,
+    "segs": [ {
+      "utf8": "That's correct."
+    } ]
+  }, {
+    "tStartMs": 2488870,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "So we're talking\nabout worst case."
+    } ]
+  }, {
+    "tStartMs": 2490600,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "You're being very\nparanoid when you"
+    } ]
+  }, {
+    "tStartMs": 2492260,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "talk about worst\ncase complexity."
+    } ]
+  }, {
+    "tStartMs": 2494540,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "And so I'm-- hand\nwaving a bit here,"
+    } ]
+  }, {
+    "tStartMs": 2498800,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "simply because I haven't\ngiven you the specifics"
+    } ]
+  }, {
+    "tStartMs": 2501150,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "of the algorithm yet."
+    } ]
+  }, {
+    "tStartMs": 2502150,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 2502650,
+    "dDurationMs": 2019,
+    "segs": [ {
+      "utf8": "This is really a\nset of algorithms,"
+    } ]
+  }, {
+    "tStartMs": 2504669,
+    "dDurationMs": 1541,
+    "segs": [ {
+      "utf8": "because I haven't\ngiven you the code,"
+    } ]
+  }, {
+    "tStartMs": 2506210,
+    "dDurationMs": 1458,
+    "segs": [ {
+      "utf8": "I haven't told you\nwhere it starts,"
+    } ]
+  }, {
+    "tStartMs": 2507668,
+    "dDurationMs": 1382,
+    "segs": [ {
+      "utf8": "and which direction it goes."
+    } ]
+  }, {
+    "tStartMs": 2509050,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "But you go, do\nthat, fix it, and I"
+    } ]
+  }, {
+    "tStartMs": 2512380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "would be the person who tries to\nfind the worst case complexity."
+    } ]
+  }, {
+    "tStartMs": 2515380,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "Suddenly it's very\neasy to get to theta n"
+    } ]
+  }, {
+    "tStartMs": 2518250,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "m in terms of having some\nconstant multiplying n times m."
+    } ]
+  }, {
+    "tStartMs": 2523140,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "But you can definitely\nget to that constant"
+    } ]
+  }, {
+    "tStartMs": 2525810,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "being very close to 1."
+    } ]
+  }, {
+    "tStartMs": 2528520,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "OK?"
+    } ]
+  }, {
+    "tStartMs": 2529910,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "If not 1."
+    } ]
+  }, {
+    "tStartMs": 2531350,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "All right."
+    } ]
+  }, {
+    "tStartMs": 2532190,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "So let's talk about\ndivide and conquer."
+    } ]
+  }, {
+    "tStartMs": 2534480,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "And let's say that\nI did something"
+    } ]
+  }, {
+    "tStartMs": 2538720,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "like this, where I just tried\nto jam the binary search"
+    } ]
+  }, {
+    "tStartMs": 2542770,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "algorithm into the 2D version."
+    } ]
+  }, {
+    "tStartMs": 2546340,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 2557780,
+    "dDurationMs": 6050,
+    "segs": [ {
+      "utf8": "So what I'm going to do is--"
+    } ]
+  }, {
+    "tStartMs": 2563830,
+    "dDurationMs": 11600,
+    "segs": [ {
+      "utf8": "--I'm going to pick the middle\ncolumn, j equals m over 2."
+    } ]
+  }, {
+    "tStartMs": 2575430,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "And I'm going to\nfind a 1D peak using"
+    } ]
+  }, {
+    "tStartMs": 2580710,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "whatever algorithm I want."
+    } ]
+  }, {
+    "tStartMs": 2581810,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "And I'll probably end up using\nthe more efficient algorithm,"
+    } ]
+  }, {
+    "tStartMs": 2584820,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "the binary search\nversion that's gone"
+    } ]
+  }, {
+    "tStartMs": 2587850,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "all the way to the left\nof the board there."
+    } ]
+  }, {
+    "tStartMs": 2590530,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "And let's say I find a\nbinary peak at (i, j)."
+    } ]
+  }, {
+    "tStartMs": 2594000,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Because I've picked a column,\nand I'm just finding a 1D peak."
+    } ]
+  }, {
+    "tStartMs": 2600320,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "So this is j equals m over 2."
+    } ]
+  }, {
+    "tStartMs": 2603550,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "That's i."
+    } ]
+  }, {
+    "tStartMs": 2605690,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Now I use (i,j)."
+    } ]
+  }, {
+    "tStartMs": 2609850,
+    "dDurationMs": 8880,
+    "segs": [ {
+      "utf8": "In particular row i as a start--"
+    } ]
+  }, {
+    "tStartMs": 2618730,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "--to find a 1D peak on row i."
+    } ]
+  }, {
+    "tStartMs": 2627470,
+    "dDurationMs": 2571,
+    "segs": [ {
+      "utf8": "And I stand up here,\nI'm really happy."
+    } ]
+  }, {
+    "tStartMs": 2630041,
+    "dDurationMs": 499,
+    "segs": [ {
+      "utf8": "OK?"
+    } ]
+  }, {
+    "tStartMs": 2630540,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Because I say, wow."
+    } ]
+  }, {
+    "tStartMs": 2633440,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "I picked a middle column,\nI found a 1D peak,"
+    } ]
+  }, {
+    "tStartMs": 2636850,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "that is theta m complexity to\nfind a 1D peak as we argued."
+    } ]
+  }, {
+    "tStartMs": 2641350,
+    "dDurationMs": 5315,
+    "segs": [ {
+      "utf8": "And one side-- the theta m--"
+    } ]
+  }, {
+    "tStartMs": 2646665,
+    "dDurationMs": 994,
+    "segs": [ {
+      "utf8": "AUDIENCE: Log n."
+    } ]
+  }, {
+    "tStartMs": 2647659,
+    "dDurationMs": 1041,
+    "segs": [ {
+      "utf8": "PROFESSOR: Oh, I'm sorry."
+    } ]
+  }, {
+    "tStartMs": 2648700,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "You're right."
+    } ]
+  }, {
+    "tStartMs": 2649730,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "The log n complexity,\nthat's what this was."
+    } ]
+  }, {
+    "tStartMs": 2653490,
+    "dDurationMs": 1541,
+    "segs": [ {
+      "utf8": "So I do have that here."
+    } ]
+  }, {
+    "tStartMs": 2655031,
+    "dDurationMs": 499,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 2655530,
+    "dDurationMs": 940,
+    "segs": [ {
+      "utf8": "Log n complexity."
+    } ]
+  }, {
+    "tStartMs": 2656470,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "Thanks, Eric."
+    } ]
+  }, {
+    "tStartMs": 2658920,
+    "dDurationMs": 7210,
+    "segs": [ {
+      "utf8": "And then once I do that, I\ncan find a 1D peak on row i."
+    } ]
+  }, {
+    "tStartMs": 2666130,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "In this case row\ni would be m wide,"
+    } ]
+  }, {
+    "tStartMs": 2668690,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "so it would be log m complexity."
+    } ]
+  }, {
+    "tStartMs": 2670630,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "If n equals m, then I have\na couple of steps of log n,"
+    } ]
+  }, {
+    "tStartMs": 2673840,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "and I'm done."
+    } ]
+  }, {
+    "tStartMs": 2675050,
+    "dDurationMs": 980,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 2676030,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "Am I done?"
+    } ]
+  }, {
+    "tStartMs": 2678320,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 2679640,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "Can someone tell me\nwhy I'm not done?"
+    } ]
+  }, {
+    "tStartMs": 2682770,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Precisely?"
+    } ]
+  }, {
+    "tStartMs": 2683270,
+    "dDurationMs": 677,
+    "segs": [ {
+      "utf8": "Yep."
+    } ]
+  }, {
+    "tStartMs": 2683947,
+    "dDurationMs": 2894,
+    "segs": [ {
+      "utf8": "AUDIENCE: Because when\nyou do the second part"
+    } ]
+  }, {
+    "tStartMs": 2686841,
+    "dDurationMs": 3314,
+    "segs": [ {
+      "utf8": "to find the peak in\nrow i, you might not"
+    } ]
+  }, {
+    "tStartMs": 2690155,
+    "dDurationMs": 2832,
+    "segs": [ {
+      "utf8": "have that column\npeak-- There might not"
+    } ]
+  }, {
+    "tStartMs": 2692987,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "be a peak on the column anymore."
+    } ]
+  }, {
+    "tStartMs": 2694320,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "PROFESSOR: That's\nexactly correct."
+    } ]
+  }, {
+    "tStartMs": 2696240,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "So this algorithm is incorrect."
+    } ]
+  }, {
+    "tStartMs": 2699280,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "OK?"
+    } ]
+  }, {
+    "tStartMs": 2699780,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "It doesn't work."
+    } ]
+  }, {
+    "tStartMs": 2701460,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "It's efficient, but incorrect."
+    } ]
+  }, {
+    "tStartMs": 2704380,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "OK?"
+    } ]
+  }, {
+    "tStartMs": 2705390,
+    "dDurationMs": 1825,
+    "segs": [ {
+      "utf8": "It's-- You want to be correct."
+    } ]
+  }, {
+    "tStartMs": 2707215,
+    "dDurationMs": 2425,
+    "segs": [ {
+      "utf8": "You know being correcting\nand inefficient"
+    } ]
+  }, {
+    "tStartMs": 2709640,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "is definitely better than\nbeing inefficient-- I'm sorry."
+    } ]
+  }, {
+    "tStartMs": 2713580,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "Being incorrect and efficient."
+    } ]
+  }, {
+    "tStartMs": 2715790,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "So this is an\nefficient algorithm,"
+    } ]
+  }, {
+    "tStartMs": 2717870,
+    "dDurationMs": 4207,
+    "segs": [ {
+      "utf8": "in the sense that it will\nonly take log n time,"
+    } ]
+  }, {
+    "tStartMs": 2722077,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "but it doesn't work."
+    } ]
+  }, {
+    "tStartMs": 2722910,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "And I'll give you\na simple example"
+    } ]
+  }, {
+    "tStartMs": 2725620,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "here where it doesn't work."
+    } ]
+  }, {
+    "tStartMs": 2732490,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "The problem is--"
+    } ]
+  }, {
+    "tStartMs": 2735680,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "--a 2D peak--"
+    } ]
+  }, {
+    "tStartMs": 2739960,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "--may not exist--"
+    } ]
+  }, {
+    "tStartMs": 2744150,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "--on row i."
+    } ]
+  }, {
+    "tStartMs": 2746090,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "And here's an example of that."
+    } ]
+  }, {
+    "tStartMs": 2753640,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Actually this is-- This is\nexactly the example of that."
+    } ]
+  }, {
+    "tStartMs": 2758360,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "Let's say that I\nstarted with this row."
+    } ]
+  }, {
+    "tStartMs": 2762690,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "Since it's-- I'm starting\nwith the middle row,"
+    } ]
+  }, {
+    "tStartMs": 2765057,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "and I could start with\nthis one or that one."
+    } ]
+  }, {
+    "tStartMs": 2766890,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "Let's say I started\nwith that one."
+    } ]
+  }, {
+    "tStartMs": 2770640,
+    "dDurationMs": 5710,
+    "segs": [ {
+      "utf8": "I end up finding a peak."
+    } ]
+  }, {
+    "tStartMs": 2776350,
+    "dDurationMs": 5980,
+    "segs": [ {
+      "utf8": "And if this were 10 up here,\nI'd choose 12 as a peak."
+    } ]
+  }, {
+    "tStartMs": 2782330,
+    "dDurationMs": 3526,
+    "segs": [ {
+      "utf8": "And it's quite possible\nthat I return 12 as a peak."
+    } ]
+  }, {
+    "tStartMs": 2785856,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "Even though 19 is\nbigger, because 12"
+    } ]
+  }, {
+    "tStartMs": 2787900,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "is a peak given\n10 and 11 up here."
+    } ]
+  }, {
+    "tStartMs": 2790370,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "And then when I choose\nthis particular row,"
+    } ]
+  }, {
+    "tStartMs": 2793060,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "and I find a peak on\nthis row, it would be 14."
+    } ]
+  }, {
+    "tStartMs": 2796720,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "That is a 1D peak on this row."
+    } ]
+  }, {
+    "tStartMs": 2798870,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "But 14 is not a 2D peak."
+    } ]
+  }, {
+    "tStartMs": 2801840,
+    "dDurationMs": 950,
+    "segs": [ {
+      "utf8": "OK?"
+    } ]
+  }, {
+    "tStartMs": 2802790,
+    "dDurationMs": 4612,
+    "segs": [ {
+      "utf8": "So this particular example,\n14 would return 14."
+    } ]
+  }, {
+    "tStartMs": 2807402,
+    "dDurationMs": 3338,
+    "segs": [ {
+      "utf8": "And 14 is not a 2D peak."
+    } ]
+  }, {
+    "tStartMs": 2810740,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 2813730,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "You can collect your\ncushion after the class."
+    } ]
+  }, {
+    "tStartMs": 2817460,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "So not so good."
+    } ]
+  }, {
+    "tStartMs": 2821880,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "Look like an efficient\nalgorithm, but doesn't work."
+    } ]
+  }, {
+    "tStartMs": 2825430,
+    "dDurationMs": 750,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 2826180,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "So how can we get to\nsomething that actually works?"
+    } ]
+  }, {
+    "tStartMs": 2829290,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "So the last algorithm that\nI'm going to show you--"
+    } ]
+  }, {
+    "tStartMs": 2834300,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "And you'll see four different\nalgorithms in your problem"
+    } ]
+  }, {
+    "tStartMs": 2836920,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "set--"
+    } ]
+  }, {
+    "tStartMs": 2841260,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "--that you'll have to analyze\nthe complexity for and decide"
+    } ]
+  }, {
+    "tStartMs": 2844340,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "if they're efficient,\nand if they're correct."
+    } ]
+  }, {
+    "tStartMs": 2848180,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "But here's a-- a\nrecursive version"
+    } ]
+  }, {
+    "tStartMs": 2853440,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "that is better than,\nin terms of complexity,"
+    } ]
+  }, {
+    "tStartMs": 2857650,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "than the Greedy\nAscent algorithm."
+    } ]
+  }, {
+    "tStartMs": 2860120,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "And this one works."
+    } ]
+  }, {
+    "tStartMs": 2863410,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "So what I'm going to do\nis pick a middle column."
+    } ]
+  }, {
+    "tStartMs": 2869750,
+    "dDurationMs": 1685,
+    "segs": [ {
+      "utf8": "j equals m over 2 as before."
+    } ]
+  }, {
+    "tStartMs": 2874050,
+    "dDurationMs": 8430,
+    "segs": [ {
+      "utf8": "I'm going to find the\nglobal maximum on column j."
+    } ]
+  }, {
+    "tStartMs": 2885316,
+    "dDurationMs": 1374,
+    "segs": [ {
+      "utf8": "And that's going\nto be at (i, j)."
+    } ]
+  }, {
+    "tStartMs": 2889580,
+    "dDurationMs": 8650,
+    "segs": [ {
+      "utf8": "I'm going to compare (i comma\nj minus 1), (i comma j),"
+    } ]
+  }, {
+    "tStartMs": 2898230,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "and (i,j plus 1)."
+    } ]
+  }, {
+    "tStartMs": 2900440,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "Which means that once I've\nfound the maximum in this row,"
+    } ]
+  }, {
+    "tStartMs": 2903620,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "all I'm going to look to\nthe left and the right,"
+    } ]
+  }, {
+    "tStartMs": 2905890,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "and compare."
+    } ]
+  }, {
+    "tStartMs": 2907920,
+    "dDurationMs": 2905,
+    "segs": [ {
+      "utf8": "I'm going to pick\nthe left columns."
+    } ]
+  }, {
+    "tStartMs": 2913520,
+    "dDurationMs": 7370,
+    "segs": [ {
+      "utf8": "If (i comma j minus 1) is\ngreater than (i comma j)--"
+    } ]
+  }, {
+    "tStartMs": 2920890,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "and similarly for the right."
+    } ]
+  }, {
+    "tStartMs": 2929490,
+    "dDurationMs": 6230,
+    "segs": [ {
+      "utf8": "And if in fact I-- either\nof these two conditions"
+    } ]
+  }, {
+    "tStartMs": 2935720,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "don't fire, and what\nI have is (i comma j)"
+    } ]
+  }, {
+    "tStartMs": 2940210,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "is greater than or equal\nto (i comma j minus 1)"
+    } ]
+  }, {
+    "tStartMs": 2944280,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "and (i comma j plus\n1), then I'm done."
+    } ]
+  }, {
+    "tStartMs": 2947630,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "Just like I had\nfor the 1D version."
+    } ]
+  }, {
+    "tStartMs": 2952760,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "If (i comma j) is greater\nthan or equal to (i comma"
+    } ]
+  }, {
+    "tStartMs": 2957500,
+    "dDurationMs": 8850,
+    "segs": [ {
+      "utf8": "j minus 1), and (i comma j\nplus 1), that implies (i, j)"
+    } ]
+  }, {
+    "tStartMs": 2966350,
+    "dDurationMs": 2241,
+    "segs": [ {
+      "utf8": "is a 2D peak."
+    } ]
+  }, {
+    "tStartMs": 2968591,
+    "dDurationMs": 621,
+    "segs": [ {
+      "utf8": "OK?"
+    } ]
+  }, {
+    "tStartMs": 2969212,
+    "dDurationMs": 1458,
+    "segs": [ {
+      "utf8": "And the reason that\nis the case, is"
+    } ]
+  }, {
+    "tStartMs": 2970670,
+    "dDurationMs": 5232,
+    "segs": [ {
+      "utf8": "because (i comma j) was the\nmaximum element in that column."
+    } ]
+  }, {
+    "tStartMs": 2975902,
+    "dDurationMs": 1458,
+    "segs": [ {
+      "utf8": "So you know that\nyou've compared it"
+    } ]
+  }, {
+    "tStartMs": 2977360,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "to all of the adjacent elements,\nlooking up and looking down,"
+    } ]
+  }, {
+    "tStartMs": 2981520,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "that's the maximum element."
+    } ]
+  }, {
+    "tStartMs": 2983000,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "Now you've look at the\nleft and the right,"
+    } ]
+  }, {
+    "tStartMs": 2985150,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "and in fact it's greater\nthan or equal to the elements"
+    } ]
+  }, {
+    "tStartMs": 2987750,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "on the left and the right."
+    } ]
+  }, {
+    "tStartMs": 2989110,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "And so therefore it's a 2D peak."
+    } ]
+  }, {
+    "tStartMs": 2991290,
+    "dDurationMs": 980,
+    "segs": [ {
+      "utf8": "OK?"
+    } ]
+  }, {
+    "tStartMs": 2992270,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "So in this case, when you pick\nthe left or the right columns--"
+    } ]
+  }, {
+    "tStartMs": 2997710,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "you'll pick one of\nthem-- you're going"
+    } ]
+  }, {
+    "tStartMs": 2999570,
+    "dDurationMs": 8455,
+    "segs": [ {
+      "utf8": "to solve the new problem with\nhalf the number of columns."
+    } ]
+  }, {
+    "tStartMs": 3016540,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 3017580,
+    "dDurationMs": 3385,
+    "segs": [ {
+      "utf8": "And again, you have to\ngo through an analysis,"
+    } ]
+  }, {
+    "tStartMs": 3020965,
+    "dDurationMs": 3985,
+    "segs": [ {
+      "utf8": "or an argument, to make sure\nthat this algorithm is correct."
+    } ]
+  }, {
+    "tStartMs": 3024950,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "But its intuitively correct,\nsimply because it matches"
+    } ]
+  }, {
+    "tStartMs": 3029740,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "the 1D version\nmuch more closely."
+    } ]
+  }, {
+    "tStartMs": 3033190,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "And you also have your condition\nwhere you break away right"
+    } ]
+  }, {
+    "tStartMs": 3037870,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "here, where you have a 2D\npeak, just like the 1D version."
+    } ]
+  }, {
+    "tStartMs": 3041160,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "And what you've done\nis break this matrix up"
+    } ]
+  }, {
+    "tStartMs": 3043930,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "into half the size."
+    } ]
+  }, {
+    "tStartMs": 3046190,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "And that's essentially\nwhy this algorithm works."
+    } ]
+  }, {
+    "tStartMs": 3051090,
+    "dDurationMs": 4716,
+    "segs": [ {
+      "utf8": "When you have a single column--"
+    } ]
+  }, {
+    "tStartMs": 3061070,
+    "dDurationMs": 8540,
+    "segs": [ {
+      "utf8": "--find the global\nmaximum and you're done."
+    } ]
+  }, {
+    "tStartMs": 3069610,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 3070110,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "So that's the base case."
+    } ]
+  }, {
+    "tStartMs": 3072570,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "So let me end with\njust writing out"
+    } ]
+  }, {
+    "tStartMs": 3074670,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "what the recurrence relation\nfor the complexity of this"
+    } ]
+  }, {
+    "tStartMs": 3077870,
+    "dDurationMs": 4611,
+    "segs": [ {
+      "utf8": "is, and argue what the overall\ncomplexity of this algorithm"
+    } ]
+  }, {
+    "tStartMs": 3082481,
+    "dDurationMs": 499,
+    "segs": [ {
+      "utf8": "is."
+    } ]
+  }, {
+    "tStartMs": 3085221,
+    "dDurationMs": 1499,
+    "segs": [ {
+      "utf8": "And then I'll give\nyou the bad news."
+    } ]
+  }, {
+    "tStartMs": 3090781,
+    "dDurationMs": 499,
+    "segs": [ {
+      "utf8": "All right."
+    } ]
+  }, {
+    "tStartMs": 3091280,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "So overall what you have is, you\nhave something like T of (n, m)"
+    } ]
+  }, {
+    "tStartMs": 3096260,
+    "dDurationMs": 6310,
+    "segs": [ {
+      "utf8": "equals T of (n, m\nover 2) plus theta n."
+    } ]
+  }, {
+    "tStartMs": 3102570,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "Why is that?"
+    } ]
+  }, {
+    "tStartMs": 3103640,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "Well n is the number of rows,\nm is the number of columns."
+    } ]
+  }, {
+    "tStartMs": 3107830,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "In one case you'll be\nbreaking things down"
+    } ]
+  }, {
+    "tStartMs": 3111430,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "into half the number of\ncolumns, which is m over 2."
+    } ]
+  }, {
+    "tStartMs": 3114630,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "And in order to find\nthe global maximum,"
+    } ]
+  }, {
+    "tStartMs": 3117520,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "you'll be doing theta\nn work, because you're"
+    } ]
+  }, {
+    "tStartMs": 3120220,
+    "dDurationMs": 1275,
+    "segs": [ {
+      "utf8": "finding the global maximum."
+    } ]
+  }, {
+    "tStartMs": 3121495,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 3121995,
+    "dDurationMs": 3275,
+    "segs": [ {
+      "utf8": "You just have to\nscan it-- this--"
+    } ]
+  }, {
+    "tStartMs": 3125270,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "That's the way-- That's\nwhat it's going to take."
+    } ]
+  }, {
+    "tStartMs": 3128840,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "And so if you do that, and\nyou go run it through--"
+    } ]
+  }, {
+    "tStartMs": 3131960,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "and you know that T of\n(n, 1) is theta n-- which"
+    } ]
+  }, {
+    "tStartMs": 3136210,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "is this last part over\nhere-- that's your base case."
+    } ]
+  }, {
+    "tStartMs": 3140880,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "You get T of (n, m) is theta\nof n added to theta of n,"
+    } ]
+  }, {
+    "tStartMs": 3148560,
+    "dDurationMs": 6260,
+    "segs": [ {
+      "utf8": "log of m times--\nlog 2 of m times."
+    } ]
+  }, {
+    "tStartMs": 3154820,
+    "dDurationMs": 7430,
+    "segs": [ {
+      "utf8": "Which is theta of\nn-- log 2 of m."
+    } ]
+  }, {
+    "tStartMs": 3162250,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "All right?"
+    } ]
+  }, {
+    "tStartMs": 3163640,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "So you're not done\nwith peak finding."
+    } ]
+  }, {
+    "tStartMs": 3168120,
+    "dDurationMs": 4962,
+    "segs": [ {
+      "utf8": "What you'll see is at four\nalgorithms coded in Python--"
+    } ]
+  }, {
+    "tStartMs": 3173082,
+    "dDurationMs": 2208,
+    "segs": [ {
+      "utf8": "I'm not going to give away\nwhat those algorithms are,"
+    } ]
+  }, {
+    "tStartMs": 3175290,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "but you'll have\nto recognize them."
+    } ]
+  }, {
+    "tStartMs": 3177090,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "You will have seen versions\nof those algorithms"
+    } ]
+  }, {
+    "tStartMs": 3180180,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "already in lecture."
+    } ]
+  }, {
+    "tStartMs": 3181850,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "And your job is going to be to\nanalyze the algorithms, as I"
+    } ]
+  }, {
+    "tStartMs": 3186210,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "said before, prove that\none of them is correct,"
+    } ]
+  }, {
+    "tStartMs": 3189690,
+    "dDurationMs": 3094,
+    "segs": [ {
+      "utf8": "and find counter-examples for\nthe ones that aren't correct."
+    } ]
+  }, {
+    "tStartMs": 3192784,
+    "dDurationMs": 1416,
+    "segs": [ {
+      "utf8": "The course staff\nwill stick around"
+    } ]
+  }, {
+    "tStartMs": 3194200,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "here to answer questions--\nlogistical questions--"
+    } ]
+  }, {
+    "tStartMs": 3197110,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "or questions about lecture."
+    } ]
+  }, {
+    "tStartMs": 3198990,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "And I owe that\ngentleman a cushion."
+    } ]
+  } ]
+}
