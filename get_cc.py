@@ -51,4 +51,7 @@ class CaptionFetcher:
             if ch in removables:
                 string.remove(ch)
 
-        string = "".join(string)	
+        string = "".join(string)
+
+    def _remove_capitalisation(string):
+        pass
