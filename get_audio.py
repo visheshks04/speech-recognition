@@ -15,7 +15,7 @@ class AudioFetcher:
         print(f'Downloading {yt.title}')
         audio = yt.streams.get_by_itag(251)
         audio.download(save_location)
-
+        
     def convert_to_wav(self, save_location):
         aud = librosa.load(self.location)
         wavfile.write(save_location, aud[1], aud[0])

@@ -1,9 +1,9 @@
 import json
 
-def create_jsons():
+def create_jsons(captions_data_path, dataset_path):
     data = []
 
-    with open('data/captions_data.json', 'r') as f:
+    with open(captions_data_path, 'r') as f:
         captions_data = json.load(f)
 
     for event in captions_data['events']:
@@ -13,5 +13,5 @@ def create_jsons():
         data.append(sample)
 
 
-    with open('data/dataset.json', 'w') as f:
+    with open(dataset_path, 'w') as f:
         json.dump(data, f, indent=4)

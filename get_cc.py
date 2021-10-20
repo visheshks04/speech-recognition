@@ -13,11 +13,19 @@ class CaptionFetcher:
     def fetch(self, save_location):
 
         captions_json = requests.get(self.url)
-        self._clean_data(captions_json.text)
+
         with open(save_location, "w") as file:
             file.write(captions_json.text)
 
-    def _clean_data(self, save_location):
+
+        print(f'DEBUG: {captions_json.text}')
+
+        # self._clean_data(save_location=save_location)
+
+        with open(save_location, "w") as file:
+            file.write(captions_json.text)
+
+    def clean_data(self, save_location):
 
         with open(save_location, 'r') as f:
             data = json.load(f)
@@ -30,7 +38,7 @@ class CaptionFetcher:
             event['segs'][0]['utf8'] = sentence
 
         with open(save_location, 'w') as f:
-            json.dump(data, f)
+            json.dump(data, f, indent=4)
 
 
     def _remove_caps(string):
@@ -55,3 +63,4 @@ class CaptionFetcher:
 
     def _remove_capitalisation(string):
         pass
+        # Somebody please complete me
