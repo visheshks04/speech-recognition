@@ -9,7 +9,7 @@ from pytorch_lightning.core.lightning import LightningModule
 from pytorch_lightning import Trainer
 from argparse import ArgumentParser
 from model import SpeechRecognition
-from dataset import Data, collate_fn_padd
+from dataset import Data, collate_fn_padd #ERRORS HERE
 from pytorch_lightning.loggers import TensorBoardLogger
 from pytorch_lightning.callbacks import ModelCheckpoint
 
@@ -112,52 +112,52 @@ def main(args):
     trainer.fit(speech_module)
 
 
-if __name__ == "__main__":
-    parser = ArgumentParser()
-    # distributed training setup
-    parser.add_argument('-n', '--nodes', default=1, type=int, help='number of data loading workers')
-    parser.add_argument('-g', '--gpus', default=1, type=int, help='number of gpus per node')
-    parser.add_argument('-w', '--data_workers', default=0, type=int,
-                        help='n data loading workers, default 0 = main process only')
-    parser.add_argument('-db', '--dist_backend', default='ddp', type=str,
-                        help='which distributed backend to use. defaul ddp')
+# if __name__ == "__main__":
+#     parser = ArgumentParser()
+#     # distributed training setup
+#     parser.add_argument('-n', '--nodes', default=1, type=int, help='number of data loading workers')
+#     parser.add_argument('-g', '--gpus', default=1, type=int, help='number of gpus per node')
+#     parser.add_argument('-w', '--data_workers', default=0, type=int,
+#                         help='n data loading workers, default 0 = main process only')
+#     parser.add_argument('-db', '--dist_backend', default='ddp', type=str,
+#                         help='which distributed backend to use. defaul ddp')
 
-    # train and valid
-    parser.add_argument('--train_file', default=None, required=True, type=str,
-                        help='json file to load training data')
-    parser.add_argument('--valid_file', default=None, required=True, type=str,
-                        help='json file to load testing data')
-    parser.add_argument('--valid_every', default=1000, required=False, type=int,
-                        help='valid after every N iteration')
+#     # train and valid
+#     parser.add_argument('--train_file', default=None, required=True, type=str,
+#                         help='json file to load training data')
+#     parser.add_argument('--valid_file', default=None, required=True, type=str,
+#                         help='json file to load testing data')
+#     parser.add_argument('--valid_every', default=1000, required=False, type=int,
+#                         help='valid after every N iteration')
 
-    # dir and path for models and logs
-    parser.add_argument('--save_model_path', default=None, required=True, type=str,
-                        help='path to save model')
-    parser.add_argument('--load_model_from', default=None, required=False, type=str,
-                        help='path to load a pretrain model to continue training')
-    parser.add_argument('--resume_from_checkpoint', default=None, required=False, type=str,
-                        help='check path to resume from')
-    parser.add_argument('--logdir', default='tb_logs', required=False, type=str,
-                        help='path to save logs')
+#     # dir and path for models and logs
+#     parser.add_argument('--save_model_path', default=None, required=True, type=str,
+#                         help='path to save model')
+#     parser.add_argument('--load_model_from', default=None, required=False, type=str,
+#                         help='path to load a pretrain model to continue training')
+#     parser.add_argument('--resume_from_checkpoint', default=None, required=False, type=str,
+#                         help='check path to resume from')
+#     parser.add_argument('--logdir', default='tb_logs', required=False, type=str,
+#                         help='path to save logs')
     
-    # general
-    parser.add_argument('--epochs', default=10, type=int, help='number of total epochs to run')
-    parser.add_argument('--batch_size', default=64, type=int, help='size of batch')
-    parser.add_argument('--learning_rate', default=1e-3, type=float, help='learning rate')
-    parser.add_argument('--pct_start', default=0.3, type=float, help='percentage of growth phase in one cycle')
-    parser.add_argument('--div_factor', default=100, type=int, help='div factor for one cycle')
-    parser.add_argument("--hparams_override", default="{}", type=str, required=False,
-		help='override the hyper parameters, should be in form of dict. ie. {"attention_layers": 16 }')
-    parser.add_argument("--dparams_override", default="{}", type=str, required=False,
-		help='override the data parameters, should be in form of dict. ie. {"sample_rate": 8000 }')
+#     # general
+#     parser.add_argument('--epochs', default=10, type=int, help='number of total epochs to run')
+#     parser.add_argument('--batch_size', default=64, type=int, help='size of batch')
+#     parser.add_argument('--learning_rate', default=1e-3, type=float, help='learning rate')
+#     parser.add_argument('--pct_start', default=0.3, type=float, help='percentage of growth phase in one cycle')
+#     parser.add_argument('--div_factor', default=100, type=int, help='div factor for one cycle')
+#     parser.add_argument("--hparams_override", default="{}", type=str, required=False,
+# 		help='override the hyper parameters, should be in form of dict. ie. {"attention_layers": 16 }')
+#     parser.add_argument("--dparams_override", default="{}", type=str, required=False,
+# 		help='override the data parameters, should be in form of dict. ie. {"sample_rate": 8000 }')
 
-    args = parser.parse_args()
-    args.hparams_override = ast.literal_eval(args.hparams_override)
-    args.dparams_override = ast.literal_eval(args.dparams_override)
+#     args = parser.parse_args()
+#     args.hparams_override = ast.literal_eval(args.hparams_override)
+#     args.dparams_override = ast.literal_eval(args.dparams_override)
 
 
-    if args.save_model_path:
-       if not os.path.isdir(os.path.dirname(args.save_model_path)):
-           raise Exception("the directory for path {} does not exist".format(args.save_model_path))
+#     if args.save_model_path:
+#        if not os.path.isdir(os.path.dirname(args.save_model_path)):
+#            raise Exception("the directory for path {} does not exist".format(args.save_model_path))
 
-    main(args)
+#     main(args)
